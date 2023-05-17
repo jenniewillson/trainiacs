@@ -1,39 +1,124 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# TRAINIACS
 
-Welcome,
+Trainiacs is an exciting new website aimed at bringing Trainspotters together. Usually a solitary pasttime, the regular meetings and trips to spotting sites, open days and galas allows spotters to make new friends, save money on travel and accommodation and share gen over a good pint!
 
-This is the Code Institute student template for Codeanywhere. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+The website is designed as a simple way for people to find out about the meetings and trips, see photos shared by other users and sign up for regular emails to update them on meetings and how to book on for events. It also links to social media, where users can share more information and interact.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **May 11th, 2023**
+/ IMAGE WILL BE ADDED HERE /
 
-## Codeanywhere Reminders
+## Author
+Jennie Willson
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+## Project overview
 
-`python3 -m http.server`
+/ IMAGE OF SITE HERE /
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+/ LINK TO DEPLOYED CODE /
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+#### Trainiacs - when Trainspotting goes social! 
+Ever thought how good it would be to have someone else to share your cops with over a good beer? Got some good spotting locations you want to share with others? Fancy some company at the end of the platform? Look no further, Trainiacs is for you!
 
-`http_server`
+Monthly meetings at a pub recommended by the Good Beer Guide, a great opportunity to share all your trainspotting stories and help each other with identifying locos and stock. Separate meetings for modern traction, heritage diesel and heritage steam, to allow for a focus on a specific interest and plan trips focussed on those specific themes.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+Save money on travel and tickets using group discounts, learn about hidden gem locations, compare notes on missing all-timers and make friends who share your passion!
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+## Live Site
+/ LINK TO DEPLOYED PROJECT /
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+## Repository
+/ LINK TO GITHUB REPO /
 
-To log into the Heroku toolbelt CLI:
+## Table of Contents
+/ CONTENTS TABLE HERE /
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+## Target Audience
+- Trainspotters new and old 
+  - those who would like to make friends, gather useful information, share knowledge or even just save money on tickets and travel!
+- Varying ages, but the majority over 50
+- Vast majority male
+- Very knowledgeable so are likely to be put off by incorrect information, even minor inaccuracies
+- Related interests often include Real Ale and Photography
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+## Project Goals
+- Inform existing trainspotters of the existence of a social trainspotting group
+- Inform of the dates of regular meetings
+- Give users the opportunity to focus on events of specific interest to them - eg some may only be interested in modern traction, others only in steam
+- Allow easy sign-up to a mailing list for further information
+- Direct users to social media channels
+- Allow users to share their photos and see photos from other users, to attract them to the group
 
----
+## User Stories
 
-Happy coding!
+### Site users (Trainspotters)
+**As a** Trainspotter  
+**I want** to be able to meet socially with other Trainspotters  
+**So that** I have some company on long trainspotting days  
+
+**As a** Trainspotter  
+**I want** to be able to get the best value on tickets for trains and events  
+**So that** I am able to save money on what can be an expensive hobby  
+
+**As a** Trainspotter  
+**I want** to be able to gain further information on missing identities of trains I have seen  
+**So that** I can confirm any spots I wasn't sure about  
+
+**As a** Trainspotter  
+**I want** to share my passion for trains with other people in a place I feel comfortable and happy  
+**So that** I feel less lonely and know that other people are interested in the same things as me  
+
+**As a** Trainspotter  
+**I want** to be able to easily see a calendar of meetings  
+**So that** I know when and where they are happening and I can arrange to attend  
+
+**As a** Trainspotter  
+**I want** to be able to easily see planned events  
+**So that** I know when and where they are happening and I can arrange to attend  
+
+**As a** Trainspotter  
+**I want** to be able to sign up to a mailing list to get further information as soon as it is available and about how to book on to trips  
+**So that** I get information quickly and am able to take advantage of opportunities  
+
+**As a** Trainspotter  
+**I want** to be able to share great photos I have taken  
+**So that** I get recognition and am able to encourage more people to attend meetings and events  
+
+### Site Owner
+**As a** Trainiacs Co-ordinator  
+**I want** a single first point of contact for trainspotters to find out about us  
+**So that** I can point them to a single place to access all the information they need  
+
+**As a** Trainiacs Co-ordinator  
+**I want** trainspotters to be able to complete a form to submit their name and email  
+**So that** it is easier for me to compile and maintain a mailing list  
+
+### Developer
+**As a** Developer  
+**I want** 
+**So that** 
+
+## Design Choices
+
+### Colours
+
+### Typography
+
+### Imagery
+
+### Animations and Transitions
+
+## Site Structure
+
+## Design Elements
+
+## Wireframes
+
+### Mobile Wireframes
+
+![Home page](https://github.com/jenniewillson/trainiacs/assets/127458925/08c62122-ab82-4f73-b7ad-278b913689d3)
+![Modern traction](https://github.com/jenniewillson/trainiacs/assets/127458925/f1dd201a-5a5d-4ed7-8fd1-a51b1ad097da)
+![Calendar](https://github.com/jenniewillson/trainiacs/assets/127458925/5dfdd892-a0d3-4803-8f18-7663089ef6d6)
+![Gallery](https://github.com/jenniewillson/trainiacs/assets/127458925/a0df3263-fb9d-45a6-8527-6d272fb72e64)
+
+### Tablet Wireframes
+
+### Desktop Wireframes
