@@ -93,14 +93,38 @@ Save money on travel and tickets using group discounts, learn about hidden gem l
 
 ### Developer
 **As a** Developer  
-**I want** 
-**So that** 
+**I want** to be able to test and demonstrate my coding skills  
+**So that** I am able to improve and demonstrate my ability  
+
+**As a** Developer  
+**I want** to learn about accessible websites  
+**So that** I am able to develop a website that is accessible to as many people as possible  
 
 ## Design Choices
 
+This website is aimed at trainspotters. Trainspotters are usually extremely knowledgeable about their subject and will likely be quite critical of a website that clearly doesn't know the terminology etc. It will be important to demonstrate this knowledge and understanding through the design of the website, tapping in to the subconscious of the user by using recognisable colours and design styles.
+
 ### Colours
 
+I am using [GWR liveries webpages](http://www.gwr.org.uk/liveries.html) to ensure I am using the correct colour scheme.
+
+#### Colour  palette
+This colour palette incorporates the 'chocolate' and 'cream' of the traditional pullman coaches and the deep red and green of the GWR locomotives, along with the gold of the name and number plates. This will be familiar to users and attract them to an authentic looking website immediately they see the nostalgic colouring.
+
+![Trainiacs colour palette](https://github.com/jenniewillson/trainiacs/assets/127458925/26cc75cf-c113-460e-ad20-404c7c97a75f)
+
 ### Typography
+
+For the same reason, I looked for fonts that represented the old GWR train nameplates and station signs. The nameplate font would work well for larger titles etc, with the simpler, easy to read station signage for the main site font.
+
+#### Titles
+The GWR font does not exist as an available online font, so I have chosen Source Serif Pro, Black 900, which is reasonably close. This may need the spacing increasing a little between letters. 
+![image](https://github.com/jenniewillson/trainiacs/assets/127458925/7c7d52b9-7113-4216-a56f-185ecbfed793)
+
+#### General text
+
+Having looked at the font for the same era station signs, it was all uppercase, which would not make the website very easy to read for larger pieces of text. I decided to take inspiration instead from the more modern station signs of today, which generally have quite a simple sans-serif type font that is not too narrow and not too closely spaced. For that reason I have chosen Open Sans.  
+![image](https://github.com/jenniewillson/trainiacs/assets/127458925/80b43ac0-6723-4c6d-ac76-95d1e4a815fa)
 
 ### Imagery
 
@@ -120,5 +144,76 @@ Save money on travel and tickets using group discounts, learn about hidden gem l
 ![Gallery](https://github.com/jenniewillson/trainiacs/assets/127458925/a0df3263-fb9d-45a6-8527-6d272fb72e64)
 
 ### Tablet Wireframes
+![Tablet - Home page](https://github.com/jenniewillson/trainiacs/assets/127458925/01c2c821-9233-47b5-92e7-7ffc40bb9331)
 
 ### Desktop Wireframes
+![Desktop - Home page](https://github.com/jenniewillson/trainiacs/assets/127458925/00852e36-90d6-485e-836a-d6a381c16773)
+
+# Features
+
+## Implemented features
+
+## Future features
+
+# Testing
+
+## Validation Testing
+
+### CSS Validation
+
+### HTML Validation
+
+## Compatibility and Responsive Testing
+
+## Manual Testing
+
+## Defect Tracking
+
+## Defects of Note
+
+## Outstanding Defects
+
+## Core Web Vitals
+
+## Accessibility Testing
+
+### Accessibility Audits
+
+### Keyboard Navigation
+
+### Chrome Vox Reader
+
+# Technologies Used
+
+https://coolors.co/310101-cfb53b-ffe7ab-660000-013602  
+
+## Programming Languages
+
+## Frameworks and Extensions
+
+## Fonts
+
+## Tools
+
+## APIs
+
+# Deployment
+
+## Forking the Repository
+
+## Deploy Locally
+
+## Deploy to GitHub Pages
+
+# Credits
+
+http://www.gwr.org.uk/liveries.html  
+
+# Content
+
+# Media
+
+## Acknowledgements
+
+- CodeInstitute template
+- 
