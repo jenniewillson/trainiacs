@@ -9,13 +9,29 @@ a {
 
 /*---Menu/Logo*/
 
+.logo {
+max-width: 100%;
+padding: 30px 0px 10px 10px;
+}
+
+.tagline {
+    color: #660000;
+    text-align: center;
+border-top: 2px solid #660000;
+border-bottom: 2px solid #660000;
+background-color: #ffe7ab;
+font-family: 'Open Sans', sans-serif;
+}
+
 .hmbgr-menu {
     position: absolute;
-    right: 1px;
-    width: 100px;
-    height: 100px;
+    right: 10px;
+    width: 35px;
+    height: 60px;
+    padding: 40px 50px 0px 0px;
     border: none;
-    font-size:30px;
+    font-size:40px;
+    color: #660000;
 }
 
 .hmbgr-menu-list {
@@ -23,7 +39,9 @@ a {
     font-weight: 500;
     background: #ffe7ab;
     color: #660000;
-    padding: 10px 0px 10px 20px;
+    padding: 10px 10px 10px 20px;
+    position: relative;
+    top: 10px;
 }
 
 /*---Footer*/
@@ -32,4 +50,5 @@ footer {
     position: absolute;
     bottom: 0px;
     text-align: center;
+    color: #660000;
 }
