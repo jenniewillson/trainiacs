@@ -7,11 +7,26 @@ a {
     color: inherit
 }
 
+.tab {
+    display:block;
+    width: 3em;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+    font-family: 'Open Sans', sans-serif;
+}
+
+
 /*---Menu/Logo*/
+
+.header {
+    background-color: #ffe7ab;
+}
 
 .logo {
 max-width: 100%;
-padding: 30px 0px 10px 10px;
+padding: 10px 0px 10px 10px;
+background-repeat: no-repeat;
 }
 
 .tagline {
@@ -28,7 +43,7 @@ font-family: 'Open Sans', sans-serif;
     right: 10px;
     width: 35px;
     height: 60px;
-    padding: 40px 50px 0px 0px;
+    padding: 25px 50px 0px 0px;
     border: none;
     font-size:40px;
     color: #660000;
@@ -44,11 +59,103 @@ font-family: 'Open Sans', sans-serif;
     top: 10px;
 }
 
+.active {
+    font-weight: 900;
+    text-decoration: underline;
+}
+
+/*---Themed pages*/
+
+.track {
+    max-width: 100%;
+    background-repeat: no-repeat;
+    }
+
+.meetings-section {
+    background-color: rgba(102, 0, 0, 0.8);
+    padding-top: 10px;
+}
+
+.meetings-ctr {
+    color: #ffe7ab;
+}
+
+.meetings-ctr a {
+    text-decoration: underline;
+}
+
+.meetings {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+}
+
+.theme-text {
+    font-family: 'Source Serif Pro', sans-serif;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
+
+
+/*---Sign-up*/
+
+.sign-up-link {
+    text-align: center;
+    font-weight: 600;
+    color: #ffe7ab;
+    background: #013602;
+    padding: 5px;
+}
+
+/*---Gallery*/
+
+.gallery-link {
+    text-align: center;
+    font-weight: 600;
+}
+
+/*---Contact page*/
+
+.sign-up-section {
+    background: #013602;
+    height: 100vh;
+    }
+    
+.sign-up-container {
+    color: #ffe7ab;
+    background: #660000;
+    margin: 20px 15px 40px 15px;
+    border: 3px solid #ffe7ab;
+}
+
+.sign-up-form {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    padding: 20px;
+    text-align: center;
+}
+
+#name {
+    margin: 6px;
+}
+
+#email {
+    margin: 6px;
+}
+
+.button {
+color: #ffe7ab;
+background: #013602;
+}
+
+
 /*---Footer*/
 
 footer {
-    position: absolute;
+    position: fixed;
     bottom: 0px;
     text-align: center;
     color: #660000;
+    background: #ffe7ab;
+    border-top: 2px solid #660000;
 }
