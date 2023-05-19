@@ -199,6 +199,15 @@ https://coolors.co/310101-cfb53b-ffe7ab-660000-013602
 
 # Deployment
 
+1. In your repository click on settings, then on pages in the left hand menu:
+![image](https://github.com/jenniewillson/trainiacs/assets/127458925/3a6e8933-09f3-4b58-af40-9f8705d5ae58)
+
+2. In branches, select 'main' and click save:
+![image](https://github.com/jenniewillson/trainiacs/assets/127458925/acdcdf97-fdd3-4efa-9dbe-356c62662b1f)
+
+3. You should have a section that shows the site is deployed - if not after a few minutes, refresh the page:
+![image](https://github.com/jenniewillson/trainiacs/assets/127458925/10edd513-ef87-42e9-850a-c3c7080af9a5)
+
 ## Forking the Repository
 
 ## Deploy Locally
