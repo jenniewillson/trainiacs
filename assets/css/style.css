@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Source+Serif+Pro:wght@900&display=swap');
-
 /*---General*/
 
 a {
@@ -8,11 +7,17 @@ a {
 }
 
 .tab {
-    display:block;
+    display: block;
     width: 3em;
 }
 
-h1, h2, h3, h4, h5, h6, p {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
     font-family: 'Open Sans', sans-serif;
 }
 
@@ -24,18 +29,18 @@ h1, h2, h3, h4, h5, h6, p {
 }
 
 .logo {
-max-width: 100%;
-padding: 10px 0px 10px 10px;
-background-repeat: no-repeat;
+    max-width: 100%;
+    padding: 10px 0px 10px 10px;
+    background-repeat: no-repeat;
 }
 
 .tagline {
     color: #660000;
     text-align: center;
-border-top: 2px solid #660000;
-border-bottom: 2px solid #660000;
-background-color: #ffe7ab;
-font-family: 'Open Sans', sans-serif;
+    border-top: 2px solid #660000;
+    border-bottom: 2px solid #660000;
+    background-color: #ffe7ab;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .hmbgr-menu {
@@ -45,7 +50,7 @@ font-family: 'Open Sans', sans-serif;
     height: 60px;
     padding: 25px 50px 0px 0px;
     border: none;
-    font-size:40px;
+    font-size: 40px;
     color: #660000;
 }
 
@@ -64,12 +69,67 @@ font-family: 'Open Sans', sans-serif;
     text-decoration: underline;
 }
 
+/*---Home page*/
+
+.home-body {
+    background: #013602;
+    height: 80vh;
+}
+
+#pic-modern {
+    background-image: url("../images/modern.jpg");
+    overflow: hidden;
+    height: 17vh;
+    width: 70vw;
+    border: 3px solid #ffe7ab;
+    border-radius: 15%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+#pic-diesel {
+    background-image: url("../images/diesel.jpg");
+    overflow: hidden;
+    height: 17vh;
+    width: 70vw;
+    border: 3px solid #ffe7ab;
+    border-radius: 15%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+#pic-steam {
+    background-image: url("../images/steam.jpg");
+    overflow: hidden;
+    height: 17vh;
+    width: 70vw;
+    border: 3px solid #ffe7ab;
+    border-radius: 15%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
 /*---Themed pages*/
 
 .track {
     max-width: 100%;
     background-repeat: no-repeat;
-    }
+}
 
 .meetings-section {
     background-color: rgba(102, 0, 0, 0.8);
@@ -119,8 +179,8 @@ font-family: 'Open Sans', sans-serif;
 .sign-up-section {
     background: #013602;
     height: 100vh;
-    }
-    
+}
+
 .sign-up-container {
     color: #ffe7ab;
     background: #660000;
@@ -144,8 +204,8 @@ font-family: 'Open Sans', sans-serif;
 }
 
 .button {
-color: #ffe7ab;
-background: #013602;
+    color: #ffe7ab;
+    background: #013602;
 }
 
 
