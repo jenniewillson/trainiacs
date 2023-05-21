@@ -169,6 +169,19 @@ Having looked at the font for the same era station signs, it was all uppercase, 
 
 ## Defect Tracking
 
+- [Images not appearing](https://github.com/jenniewillson/trainiacs/issues/2#issue-1718216540)
+- [Images disappeared after updated ](https://github.com/jenniewillson/trainiacs/issues/3#issue-1718308757)
+- [Unmanageable css](https://github.com/jenniewillson/trainiacs/issues/4#issue-1718310163)
+- [Link not working for images on home page ](https://github.com/jenniewillson/trainiacs/issues/5#issue-1718324678)
+- [HTML Validator errors](https://github.com/jenniewillson/trainiacs/issues/6#issue-1718326880)
+- [Social media links get 404 error](https://github.com/jenniewillson/trainiacs/issues/7#issue-1718469587)
+- [Header background colour missing on some pages](https://github.com/jenniewillson/trainiacs/issues/8#issue-1718476485)
+
+
+
+
+
+
 ## Defects of Note
 
 ## Outstanding Defects
