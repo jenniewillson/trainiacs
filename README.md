@@ -23,7 +23,8 @@ Monthly meetings at a pub recommended by the Good Beer Guide, a great opportunit
 Save money on travel and tickets using group discounts, learn about hidden gem locations, compare notes on missing all-timers and make friends who share your passion!
 
 ## Live Site
-/ LINK TO DEPLOYED PROJECT /
+
+[Trainiacs](https://jenniewillson.github.io/trainiacs/)
 
 ## Repository
 / LINK TO GITHUB REPO /
