@@ -103,6 +103,17 @@ overflow: hidden;
     background-position: center;
 }
 
+.home-theme-text {
+    text-transform: uppercase;
+    background-color: #ffe7ab;
+    color: #660000;
+    border: 2px solid #660000;
+    border-radius: 20px;
+    text-align: center;
+    font-weight: 600;
+}
+
+
 /*---Themed pages*/
 
 .track {
