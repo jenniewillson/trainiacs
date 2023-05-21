@@ -160,6 +160,7 @@ overflow: hidden;
 /*---Gallery*/
 
 .gallery-link {
+    font-size: 24px;
     text-align: center;
     font-weight: 600;
 }
