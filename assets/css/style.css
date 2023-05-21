@@ -187,6 +187,10 @@ overflow: hidden;
     background: #013602;
 }
 
+input[type=checkbox] {
+    transform: scale(1.5);
+}
+
 
 /*---Footer*/
 
@@ -197,4 +201,9 @@ footer {
     color: #660000;
     background: #ffe7ab;
     border-top: 2px solid #660000;
+    font-size: 20px;
+}
+
+footer li {
+    font-size: 24px;
 }
