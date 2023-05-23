@@ -103,6 +103,22 @@ overflow: hidden;
     background-position: center;
 }
 
+@media (min-width: 992px) {
+    .theme-pic {
+    height: 50vh;
+    width: 20vw;
+    border: 3px solid #ffe7ab;
+    border-radius: 15%;
+    margin-top: 80px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    }
+}
+
 .home-theme-text {
     text-transform: uppercase;
     background-color: #ffe7ab;
@@ -113,6 +129,18 @@ overflow: hidden;
     font-weight: 600;
 }
 
+@media (min-width: 992px) {
+    .home-theme-text {
+    text-transform: uppercase;
+    background-color: #ffe7ab;
+    color: #660000;
+    border: 2px solid #660000;
+    border-radius: 20px;
+    text-align: center;
+    font-weight: 600;
+    margin-top: 20px;
+}
+}
 
 /*---Themed pages*/
 
