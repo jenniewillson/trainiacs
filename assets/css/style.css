@@ -209,7 +209,18 @@ overflow: hidden;
     font-size: 20px;
 }
 
+.gallery-link-pics img {
+ 
+    clear: both;
+        padding: 0;
+        background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center;
+    }
 
+    .gallery-link {
+        background: #ffe7ab;
+    }
 
 /*---Sign-up*/
 
