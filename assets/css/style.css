@@ -25,7 +25,7 @@ p {
     padding: 0;
 }
 
-body * {
+body {
     box-sizing: content-box;
 }
 
