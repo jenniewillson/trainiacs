@@ -229,11 +229,21 @@ overflow: hidden;
     font-weight: 600;
 }
 
-#photo {
+@media (min-width: 992px) {#photo {
     clear: both;
     line-height: 0;
     column-count: 4;
     column-gap: 0px;
+}
+}
+
+@media (max-width: 992px) {
+    #photo {
+        clear: both;
+        line-height: 0;
+        column-count: 2;
+        column-gap: 0px;
+    }
 }
 
 #photo img {
