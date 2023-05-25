@@ -154,6 +154,17 @@ p.home-theme-text {
 
 /*---Themed pages*/
 
+#train-track {
+    display: flex;
+    flex-direction: row;
+    width: 90%;
+    position: relative;
+}
+
+.track-container {
+    display: flex;
+    margin-left: 5%;
+}
 
 .meetings-section {
     background-color: rgba(102, 0, 0, 0.8);
@@ -175,6 +186,9 @@ p.home-theme-text {
                 flex-direction: column;
 }
 
+.train-icon {
+    font-size: 30px;
+}
 
 .theme-text {
     font-family: 'Source Serif Pro', sans-serif;
