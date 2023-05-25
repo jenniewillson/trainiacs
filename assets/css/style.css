@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Source+Serif+Pro:wght@900&display=swap');
 /*---General*/
 
+
 a {
     text-decoration: none;
     color: inherit
@@ -29,6 +30,10 @@ body {
     box-sizing: content-box;
 }
 
+.row {
+    margin-right: 0;
+}
+
 /*---Menu/Logo*/
 
 .header {
@@ -42,7 +47,7 @@ body {
     background-repeat: no-repeat;
 }
 
-@media (min-width: 992px) {
+@media only screen and (min-width: 768px) {
     .logo {
         display: block;
         margin-left: auto;
@@ -70,7 +75,7 @@ body {
     color: #660000;
 }
 
-@media (min-width: 992px) {
+@media only screen and (min-width: 768px) {
     .hmbgr-menu {
         display: none;
     }
@@ -99,7 +104,7 @@ body {
     justify-content: space-around;
 }
 
-@media (max-width: 992px) {
+@media (max-width: 768px) {
     .menu-bar {
         display: none;
     }
@@ -147,7 +152,7 @@ body {
     background-position: center;
 }
 
-@media (min-width: 992px) {
+@media only screen and (min-width: 768px) {
     .theme-pic {
         height: 50vh;
         width: 27vw;
@@ -173,7 +178,7 @@ body {
     font-weight: 600;
 }
 
-@media (min-width: 992px) {
+@media only screen and (min-width: 768px) {
     .home-theme-text {
         text-transform: uppercase;
         background-color: #ffe7ab;
@@ -248,7 +253,7 @@ body {
     font-weight: 600;
 }
 
-@media (min-width: 992px) {
+@media only screen and (min-width: 768px) {
     #photo {
         clear: both;
         line-height: 0;
@@ -257,14 +262,12 @@ body {
     }
 }
 
-@media (max-width: 992px) {
     #photo {
         clear: both;
         line-height: 0;
         column-count: 2;
         column-gap: 0px;
     }
-}
 
 #photo img {
     width: 100%;
@@ -282,6 +285,8 @@ body {
     background: #660000;
     margin: 20px 15px 40px 15px;
     border: 3px solid #ffe7ab;
+    max-width: fit-content;
+    margin: auto;
 }
 
 .sign-up-form {
@@ -289,6 +294,14 @@ body {
     font-size: 16px;
     padding: 20px;
     text-align: center;
+}
+
+@media only screen and (min-width: 768px) {
+    .sign-up-form {
+            font-size: 24px;
+            padding: 50px;
+            text-align: center;
+        }
 }
 
 #name {
