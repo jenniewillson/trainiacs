@@ -152,6 +152,12 @@ Having looked at the font for the same era station signs, it was all uppercase, 
 
 # Features
 
+## Version control
+
+At the beginning of the project I had two problems - firstly that I had misunderstood the teaching videos and thought it was telling me to commit code after each session of work. Secondly I had a problem with CodeAnywhere which was preventing me from committing anything as it kept telling me it didn't know my identity and the suggested fixes were not working. I had to carry on working due to time constraints.
+
+Once this was resolved and I understood the requirement I have been committing code much more regularly and after each major change and recognise that this is the correct way to work and manage the code and project. I am unable to go back and change this, but have done my best to improve this going forward.
+
 ## Implemented features
 
 ## Future features
@@ -215,6 +221,12 @@ Unicorn revealer
 
 # Deployment
 
+## Forking the Repository
+
+## Deploy Locally
+
+## Deploy to GitHub Pages
+
 1. In your repository click on settings, then on pages in the left hand menu:
 ![image](https://github.com/jenniewillson/trainiacs/assets/127458925/3a6e8933-09f3-4b58-af40-9f8705d5ae58)
 
@@ -223,12 +235,6 @@ Unicorn revealer
 
 3. You should have a section that shows the site is deployed - if not after a few minutes, refresh the page:
 ![image](https://github.com/jenniewillson/trainiacs/assets/127458925/10edd513-ef87-42e9-850a-c3c7080af9a5)
-
-## Forking the Repository
-
-## Deploy Locally
-
-## Deploy to GitHub Pages
 
 # Credits
 
