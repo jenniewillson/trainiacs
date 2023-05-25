@@ -154,14 +154,10 @@ p.home-theme-text {
 
 /*---Themed pages*/
 
-.train-track {
-    display: block;
-    width: 20vw;
-}
 
 .meetings-section {
     background-color: rgba(102, 0, 0, 0.8);
-    padding-top: 10px;
+                display: flex;
 }
 
 .meetings-ctr {
@@ -172,10 +168,13 @@ p.home-theme-text {
     text-decoration: underline;
 }
 
-.meetings {
-    font-family: 'Open Sans', sans-serif;
-    font-size: 16px;
+.meeting-item {
+    max-width: 1116px;
+    margin: 10px auto;
+            display: flex;
+                flex-direction: column;
 }
+
 
 .theme-text {
     font-family: 'Source Serif Pro', sans-serif;
@@ -333,6 +332,12 @@ footer li {
         padding: 50px;
         text-align: center;
     }
+
+.meeting-item {
+    display: flex;
+    flex-direction: row;
+    gap: 100px;
+}
 }
 
 @media (max-width: 768px) {
