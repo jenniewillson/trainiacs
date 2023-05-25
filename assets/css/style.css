@@ -28,6 +28,7 @@ p {
 
 body {
     box-sizing: content-box;
+    background: #013602;
 }
 
 .row {
@@ -45,14 +46,6 @@ body {
     max-height: 200px;
     padding: 10px 0px 10px 10px;
     background-repeat: no-repeat;
-}
-
-@media only screen and (min-width: 768px) {
-    .logo {
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-    }
 }
 
 .tagline {
@@ -73,12 +66,6 @@ body {
     border: none;
     font-size: 40px;
     color: #660000;
-}
-
-@media only screen and (min-width: 768px) {
-    .hmbgr-menu {
-        display: none;
-    }
 }
 
 .hmbgr-menu-list {
@@ -102,12 +89,6 @@ body {
     padding: 0;
     max-width: 100%;
     justify-content: space-around;
-}
-
-@media (max-width: 768px) {
-    .menu-bar {
-        display: none;
-    }
 }
 
 #menu-item a {
@@ -152,20 +133,13 @@ body {
     background-position: center;
 }
 
-@media only screen and (min-width: 768px) {
-    .theme-pic {
-        height: 50vh;
-        width: 27vw;
-        border: 3px solid #ffe7ab;
-        border-radius: 15%;
-        margin-top: 40px;
-        margin-bottom: 10px;
-        margin-left: auto;
-        margin-right: auto;
-        background-repeat: no-repeat;
-        background-size: cover;
-        background-position: center;
-    }
+p.home-theme-text {
+    width: calc(100% + 30px);
+    margin-left: -15px;
+    margin-top: -2px;
+    display: block;
+    padding: 3px 0;
+    border-radius: 20px 20px 0 0;
 }
 
 .home-theme-text {
@@ -178,24 +152,11 @@ body {
     font-weight: 600;
 }
 
-@media only screen and (min-width: 768px) {
-    .home-theme-text {
-        text-transform: uppercase;
-        background-color: #ffe7ab;
-        color: #660000;
-        border: 2px solid #660000;
-        border-radius: 20px;
-        text-align: center;
-        font-weight: 600;
-        margin-top: 20px;
-    }
-}
-
 /*---Themed pages*/
 
-.track {
-    max-width: 100%;
-    background-repeat: no-repeat;
+.train-track {
+    display: block;
+    width: 20vw;
 }
 
 .meetings-section {
@@ -253,21 +214,12 @@ body {
     font-weight: 600;
 }
 
-@media only screen and (min-width: 768px) {
-    #photo {
-        clear: both;
-        line-height: 0;
-        column-count: 4;
-        column-gap: 0px;
-    }
+#photo {
+    clear: both;
+    line-height: 0;
+    column-count: 2;
+    column-gap: 0px;
 }
-
-    #photo {
-        clear: both;
-        line-height: 0;
-        column-count: 2;
-        column-gap: 0px;
-    }
 
 #photo img {
     width: 100%;
@@ -294,14 +246,6 @@ body {
     font-size: 16px;
     padding: 20px;
     text-align: center;
-}
-
-@media only screen and (min-width: 768px) {
-    .sign-up-form {
-            font-size: 24px;
-            padding: 50px;
-            text-align: center;
-        }
 }
 
 #name {
@@ -336,4 +280,62 @@ footer {
 
 footer li {
     font-size: 24px;
+}
+
+/*---Media queries*/
+@media only screen and (min-width: 768px) {
+    .logo {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .hmbgr-menu {
+        display: none;
+    }
+
+    .theme-pic {
+        height: 50vh;
+        width: 27vw;
+        border: 3px solid #ffe7ab;
+        border-radius: 15%;
+        margin-top: 40px;
+        margin-bottom: 10px;
+        margin-left: auto;
+        margin-right: auto;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
+
+    .home-theme-text {
+        text-transform: uppercase;
+        background-color: #ffe7ab;
+        color: #660000;
+        border: 2px solid #660000;
+        border-radius: 20px;
+        text-align: center;
+        font-weight: 600;
+        margin-top: 20px;
+        font-size: 30px;
+    }
+
+    #photo {
+        clear: both;
+        line-height: 0;
+        column-count: 4;
+        column-gap: 0px;
+    }
+
+    .sign-up-form {
+        font-size: 24px;
+        padding: 50px;
+        text-align: center;
+    }
+}
+
+@media (max-width: 768px) {
+    .menu-bar {
+        display: none;
+    }
 }
