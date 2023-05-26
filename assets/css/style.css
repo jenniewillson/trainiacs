@@ -140,7 +140,7 @@ p.home-theme-text {
     display: block;
     padding: 3px 0;
     border-radius: 20px 20px 0 0;
-    }
+}
 
 .home-theme-text {
     text-transform: uppercase;
@@ -150,7 +150,7 @@ p.home-theme-text {
     border-radius: 20px;
     text-align: center;
     font-weight: 600;
-    }
+}
 
 /*---Themed pages*/
 
@@ -168,7 +168,7 @@ p.home-theme-text {
 
 .meetings-section {
     background-color: rgba(102, 0, 0, 0.8);
-                display: flex;
+    display: flex;
 }
 
 .meetings-ctr {
@@ -182,8 +182,8 @@ p.home-theme-text {
 .meeting-item {
     max-width: 1116px;
     margin: 10px auto;
-            display: flex;
-                flex-direction: column;
+    display: flex;
+    flex-direction: column;
 }
 
 .train-icon {
@@ -347,11 +347,29 @@ footer li {
         text-align: center;
     }
 
-.meeting-item {
-    display: flex;
-    flex-direction: row;
-    gap: 100px;
-}
+    .meeting-item {
+        display: flex;
+        flex-direction: row;
+        gap: 100px;
+    }
+
+
+    #train-track-wide {
+         rotate: 90deg;
+    max-height: 150px;
+    display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 0;
+        margin-bottom: 0;
+        object-fit: fill;
+
+    }
+
+    .track-container-wide {
+            background-color: rgba(102, 0, 0, 0.8);
+                display: block;
+    }
 }
 
 @media (max-width: 768px) {
