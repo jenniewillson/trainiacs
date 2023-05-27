@@ -154,6 +154,10 @@ p.home-theme-text {
 
 /*---Themed pages*/
 
+#train-track-wide {
+    display: none;
+}
+
 #train-track {
     display: flex;
     flex-direction: row;
@@ -198,7 +202,8 @@ p.home-theme-text {
 }
 
 .gallery-link-pics img {
-
+    height: 100%;
+    width: 100%;
     clear: both;
     padding: 0;
     background-repeat: no-repeat;
@@ -206,8 +211,26 @@ p.home-theme-text {
     background-position: center;
 }
 
+.gallery-link-pics {
+    max-width: 1116px;
+    margin: 10px auto;
+}
+
+.gallery-wrap {
+    display: none;
+}
+
+.gallery-wrap:first-of-type {
+    display: block;
+}
+
 .gallery-link {
     background: #ffe7ab;
+        font-size: 24px;
+            text-align: center;
+            font-weight: 600;
+            height: 300px;
+            margin-bottom: 57px;
 }
 
 /*---Sign-up*/
@@ -221,12 +244,6 @@ p.home-theme-text {
 }
 
 /*---Gallery*/
-
-.gallery-link {
-    font-size: 24px;
-    text-align: center;
-    font-weight: 600;
-}
 
 #photo {
     clear: both;
@@ -270,6 +287,11 @@ p.home-theme-text {
     margin: 6px;
 }
 
+input[type='text'],
+input[type='email'] {
+    padding: 0px 15px;
+}
+
 .button {
     color: #ffe7ab;
     background: #013602;
@@ -277,6 +299,20 @@ p.home-theme-text {
 
 input[type=checkbox] {
     transform: scale(1.5);
+}
+
+.signed-up {
+    background: #660000;
+    font-size: 20px;
+    text-align: center;
+    color: #ffe7ab;
+    width: 70vw;
+    display: block;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    border: 4px #ffe7ab solid;
 }
 
 
@@ -364,7 +400,7 @@ footer li {
     #train-track-wide {
     max-height: 100px;
     height: auto;
-    width: 90%;
+    width: 80%;
     display: block;
         margin-left: auto;
         margin-right: auto;
@@ -377,6 +413,15 @@ footer li {
             background-color: rgba(102, 0, 0, 0.8);
                 display: flex;
     }
+        .gallery-wrap {
+            width: 20%;
+            height: 200px;
+            display: block;
+        }
+
+                .signed-up {
+                    font-size: 40px;
+                }
 }
 
 @media (max-width: 768px) {
