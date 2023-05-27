@@ -328,6 +328,10 @@ input[type=checkbox] {
     border: 4px #ffe7ab solid;
 }
 
+.return-home {
+    font-size: 16px;
+}
+
 
 /*FOOTER*/
 
@@ -425,6 +429,9 @@ footer li {
     .signed-up {
         font-size: 40px;
     }
+        .return-home {
+            font-size: 30px;
+        }
 }
 
 /*STYLING TO REMOVE HAMBURGER MENU WHERE NAVBAR WILL FIT*/
