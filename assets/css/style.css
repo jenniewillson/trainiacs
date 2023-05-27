@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Source+Serif+Pro:wght@900&display=swap');
-/*---General*/
 
+/*GENERAL STYLES*/
 
 a {
     text-decoration: none;
@@ -35,7 +35,7 @@ body {
     margin-right: 0;
 }
 
-/*---Menu/Logo*/
+/*HEADER - LOGO AND TAGLINE*/
 
 .header {
     background-color: #ffe7ab;
@@ -56,6 +56,8 @@ body {
     background-color: #ffe7ab;
     font-family: 'Open Sans', sans-serif;
 }
+
+/*HEADER - MENU*/
 
 .hmbgr-menu {
     position: absolute;
@@ -99,12 +101,14 @@ body {
     color: #660000;
 }
 
-/*---Home page*/
+/*HOME PAGE*/
 
 .home-body {
     background: #013602;
     max-width: 100%;
 }
+
+/*HOME - THEME PICS/LINKS*/
 
 #pic-modern {
     background-image: url("../images/modern.jpg");
@@ -152,7 +156,9 @@ p.home-theme-text {
     font-weight: 600;
 }
 
-/*---Themed pages*/
+/*THEME PAGES*/
+
+/*TRACK*/
 
 #train-track-wide {
     display: none;
@@ -169,6 +175,8 @@ p.home-theme-text {
     display: flex;
     margin-left: 5%;
 }
+
+/*MEETINGS*/
 
 .meetings-section {
     background-color: rgba(102, 0, 0, 0.8);
@@ -200,6 +208,8 @@ p.home-theme-text {
     font-size: 20px;
     letter-spacing: 1.2px;
 }
+
+/*THEME PAGES - GALLERY LINK*/
 
 .gallery-link-pics img {
     height: 100%;
@@ -234,7 +244,7 @@ p.home-theme-text {
     margin-bottom: 57px;
 }
 
-/*---Sign-up*/
+/*THEME PAGES - SIGN UP LINK*/
 
 .sign-up-link {
     text-align: center;
@@ -244,7 +254,7 @@ p.home-theme-text {
     padding: 5px;
 }
 
-/*---Gallery*/
+/*GALLERY PAGE*/
 
 #photo {
     clear: both;
@@ -257,7 +267,7 @@ p.home-theme-text {
     width: 100%;
 }
 
-/*---Contact page*/
+/*CONTACT PAGE*/
 
 .sign-up-section {
     background: #013602;
@@ -301,6 +311,8 @@ input[type=checkbox] {
     transform: scale(1.5);
 }
 
+/*SIGNED UP - THANK YOU*/
+
 .signed-up {
     background: #660000;
     font-size: 20px;
@@ -316,7 +328,7 @@ input[type=checkbox] {
 }
 
 
-/*---Footer*/
+/*FOOTER*/
 
 footer {
     position: fixed;
@@ -332,7 +344,10 @@ footer li {
     font-size: 24px;
 }
 
-/*---Media queries*/
+/*MEDIA QUERIES*/
+
+/*STYLING FOR SCREENS WIDER THAN MOBILE*/
+
 @media only screen and (min-width: 768px) {
     .theme-pic {
         height: 50vh;
@@ -415,13 +430,16 @@ footer li {
     }
 }
 
+/*STYLING TO REMOVE HAMBURGER MENU WHERE NAVBAR WILL FIT*/
+
 @media only screen and (min-width: 822px) {
 
     .hmbgr-menu {
         display: none;
     }
-    
 }
+
+/*STYLING TO ENSURE NAVBAR STAYS HORIZONTAL AND LOGO IS CENTRED ON LARGER SCREENS*/
 
 @media only screen and (min-width: 991px) {
     .menu-bar {
@@ -439,6 +457,8 @@ footer li {
     }
 }
 
+/*STYLING TO HIDE NAVBAR FOR MOBILE*/
+
     @media (max-width: 822px) {
         .menu-bar {
             display: none;
@@ -448,7 +468,7 @@ footer li {
             display: none;
         }
     }
-
+/*STYLING TO CENTRE LOGO AT MIDDLE WIDTHS*/
         @media screen and (max-width: 991px) and (min-width: 822px) {
             .logo {
                 display: block;
