@@ -459,19 +459,20 @@ footer li {
 
 /*STYLING TO HIDE NAVBAR FOR MOBILE*/
 
-    @media (max-width: 822px) {
-        .menu-bar {
-            display: none;
-        }
-
-        .hidden-col-3 {
-            display: none;
-        }
+@media (max-width: 822px) {
+    .menu-bar {
+        display: none;
     }
+
+    .hidden-col-3 {
+        display: none;
+    }
+}
+
 /*STYLING TO CENTRE LOGO AT MIDDLE WIDTHS*/
-        @media screen and (max-width: 991px) and (min-width: 822px) {
-            .logo {
-                display: block;
-                float: left;
-            }
-        }
+@media screen and (max-width: 991px) and (min-width: 822px) {
+    .logo {
+        display: block;
+        float: left;
+    }
+}
