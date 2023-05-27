@@ -334,16 +334,6 @@ footer li {
 
 /*---Media queries*/
 @media only screen and (min-width: 768px) {
-    .logo {
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-    }
-
-    .hmbgr-menu {
-        display: none;
-    }
-
     .theme-pic {
         height: 50vh;
         width: 27vw;
@@ -424,7 +414,25 @@ footer li {
                 }
 }
 
-@media (max-width: 768px) {
+@media only screen and (min-width: 822px) {
+    .logo {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .hmbgr-menu {
+        display: none;
+    }
+}
+
+@media only screen and (min-width: 991px) {
+    .menu-bar {
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 822px) {
     .menu-bar {
         display: none;
     }
