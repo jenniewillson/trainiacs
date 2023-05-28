@@ -197,10 +197,269 @@ Once this was resolved and I understood the requirement I have been committing c
 
 ## Manual Testing
 
+### Mobile
+|Requirement|Result|Comments|
+|-------|-------|-------|
+|Website loads|?|?|
+|Home - Layout appearance is correct (check for visibility of text, layout, no overlaps)|?|?|
+|Home - Scroll works where appropriate|?|?|
+|Home - Logo Home link works|?|?|
+|Home - All menu links take user to correct screen|?|?|
+|Home - Active menu item is correct|?|?|
+|Home - Theme picture links take user to correct theme pages|?|?|
+|Home - Footer - 'Contact us' takes user to Contact us page/form|?|?|
+|Home - Footer - Telephone link works|?|?|
+|Home - Footer - Email link works|?|?|
+|Home - Footer - Facebook, Twitter and Instagram links work|?|?|
+|Modern Traction - Layout appearance is correct (check for visibility of text, layout, no overlaps)|?|?|
+|Modern Traction - Scroll works where appropriate|?|?|
+|Modern Traction - Logo Home link works|?|?|
+|Modern Traction - All menu links take user to correct screen|?|?|
+|Modern Traction - Active menu item is correct|?|?|
+|Modern Traction - Meetings are correct theme and all information visible|?|?|
+|Modern Traction - Map link takes user to Station Inn location on new tab|?|?|
+|Modern Traction - Sign up section takes user to Contact us page/form|?|?|
+|Modern Traction - Gallery section takes user to Contact us page/form|?|?|
+|Modern Traction - Footer - 'Contact us' takes user to Gallery page|?|?|
+|Modern Traction - Footer - Telephone link works|?|?|
+|Modern Traction - Footer - Email link works|?|?|
+|Modern Traction - Footer - Facebook, Twitter and Instagram links work|?|?|
+|Heritage Diesel - Layout appearance is correct (check for visibility of text, layout, no overlaps)|?|?|
+|Heritage Diesel - Scroll works where appropriate|?|?|
+|Heritage Diesel - Logo Home link works|?|?|
+|Heritage Diesel - All menu links take user to correct screen|?|?|
+|Heritage Diesel - Active menu item is correct|?|?|
+|Heritage Diesel - Meetings are correct theme and all information visible|?|?|
+|Heritage Diesel - Map link takes user to Station Inn location on new tab|?|?|
+|Heritage Diesel - Sign up section takes user to Contact us page/form|?|?|
+|Heritage Diesel - Gallery section takes user to Contact us page/form|?|?|
+|Heritage Diesel - Footer - 'Contact us' takes user to Gallery page|?|?|
+|Heritage Diesel - Footer - Telephone link works|?|?|
+|Heritage Diesel - Footer - Email link works|?|?|
+|Heritage Diesel - Footer - Facebook, Twitter and Instagram links work|?|?|
+|Steam - Layout appearance is correct (check for visibility of text, layout, no overlaps)|?|?|
+|Steam - Scroll works where appropriate|?|?|
+|Steam - Logo Home link works|?|?|
+|Steam - All menu links take user to correct screen|?|?|
+|Steam - Active menu item is correct|?|?|
+|Steam - Meetings are correct theme and all information visible|?|?|
+|Steam - Map link takes user to Station Inn location on new tab|?|?|
+|Steam - Sign up section takes user to Contact us page/form|?|?|
+|Steam - Gallery section takes user to Contact us page/form|?|?|
+|Steam - Footer - 'Contact us' takes user to Gallery page|?|?|
+|Steam - Footer - Telephone link works|?|?|
+|Steam - Footer - Email link works|?|?|
+|Steam - Footer - Facebook, Twitter and Instagram links work|?|?|
+|Gallery - Layout appearance is correct (check for visibility of text, layout, no overlaps)|?|?|
+|Gallery - Scroll works where appropriate|?|?|
+|Gallery - Logo Home link works|?|?|
+|Gallery - All menu links take user to correct screen|?|?|
+|Gallery - Active menu item is correct|?|?|
+|Gallery - All images appear and show information on hover|?|?|
+|Gallery - Footer - 'Contact us' takes user to Gallery page|?|?|
+|Gallery - Footer - Telephone link works|?|?|
+|Gallery - Footer - Email link works|?|?|
+|Gallery - Footer - Facebook, Twitter and Instagram links work|?|?|
+|Contact - Layout appearance is correct (check for visibility of text, layout, no overlaps)|?|?|
+|Contact - Scroll works where appropriate|?|?|
+|Contact - Logo Home link works|?|?|
+|Contact - All menu links take user to correct screen|?|?|
+|Contact - Active menu item is correct|?|?|
+|Contact - Form shows correctly|?|?|
+|Contact - Name is mandatory|?|?|
+|Contact - Email is mandatory and validated|?|?|
+|Contact - Any number of checkboxes can be checked|?|?|
+|Contact - 'Sign me up!' once form is correctly completed takes user to SignedUp page|?|?|
+|Contact - Footer - 'Contact us' takes user to Gallery page|?|?|
+|Contact - Footer - Telephone link works|?|?|
+|Contact - Footer - Email link works|?|?|
+|Contact - Footer - Facebook, Twitter and Instagram links work|?|?|
+|SignedUp - Layout appearance is correct (check for visibility of text, layout, no overlaps)|?|?|
+|SignedUp - Scroll works where appropriate|?|?|
+|SignedUp - Logo Home link works|?|?|
+|SignedUp - All menu links take user to correct screen|?|?|
+|SignedUp - Active menu item is correct|?|?|
+|SignedUp - Home link in thank you section returns user to the home page|?|?|
+|SignedUp - Footer - 'Contact us' takes user to Gallery page|?|?|
+|SignedUp - Footer - Telephone link works|?|?|
+|SignedUp - Footer - Email link works|?|?|
+|SignedUp - Footer - Facebook, Twitter and Instagram links work|?|?|
+
+### Tablet
+|Requirement|Result|Comments|
+|-------|-------|-------|
+|Website loads|?|?|
+|Home - Layout appearance is correct (check for visibility of text, layout, no overlaps)|?|?|
+|Home - Scroll works where appropriate|?|?|
+|Home - Logo Home link works|?|?|
+|Home - All menu links take user to correct screen|?|?|
+|Home - Active menu item is correct|?|?|
+|Home - Theme picture links take user to correct theme pages|?|?|
+|Home - Footer - 'Contact us' takes user to Contact us page/form|?|?|
+|Home - Footer - Telephone link works|?|?|
+|Home - Footer - Email link works|?|?|
+|Home - Footer - Facebook, Twitter and Instagram links work|?|?|
+|Modern Traction - Layout appearance is correct (check for visibility of text, layout, no overlaps)|?|?|
+|Modern Traction - Scroll works where appropriate|?|?|
+|Modern Traction - Logo Home link works|?|?|
+|Modern Traction - All menu links take user to correct screen|?|?|
+|Modern Traction - Active menu item is correct|?|?|
+|Modern Traction - Meetings are correct theme and all information visible|?|?|
+|Modern Traction - Map link takes user to Station Inn location on new tab|?|?|
+|Modern Traction - Sign up section takes user to Contact us page/form|?|?|
+|Modern Traction - Gallery section takes user to Contact us page/form|?|?|
+|Modern Traction - Footer - 'Contact us' takes user to Gallery page|?|?|
+|Modern Traction - Footer - Telephone link works|?|?|
+|Modern Traction - Footer - Email link works|?|?|
+|Modern Traction - Footer - Facebook, Twitter and Instagram links work|?|?|
+|Heritage Diesel - Layout appearance is correct (check for visibility of text, layout, no overlaps)|?|?|
+|Heritage Diesel - Scroll works where appropriate|?|?|
+|Heritage Diesel - Logo Home link works|?|?|
+|Heritage Diesel - All menu links take user to correct screen|?|?|
+|Heritage Diesel - Active menu item is correct|?|?|
+|Heritage Diesel - Meetings are correct theme and all information visible|?|?|
+|Heritage Diesel - Map link takes user to Station Inn location on new tab|?|?|
+|Heritage Diesel - Sign up section takes user to Contact us page/form|?|?|
+|Heritage Diesel - Gallery section takes user to Contact us page/form|?|?|
+|Heritage Diesel - Footer - 'Contact us' takes user to Gallery page|?|?|
+|Heritage Diesel - Footer - Telephone link works|?|?|
+|Heritage Diesel - Footer - Email link works|?|?|
+|Heritage Diesel - Footer - Facebook, Twitter and Instagram links work|?|?|
+|Steam - Layout appearance is correct (check for visibility of text, layout, no overlaps)|?|?|
+|Steam - Scroll works where appropriate|?|?|
+|Steam - Logo Home link works|?|?|
+|Steam - All menu links take user to correct screen|?|?|
+|Steam - Active menu item is correct|?|?|
+|Steam - Meetings are correct theme and all information visible|?|?|
+|Steam - Map link takes user to Station Inn location on new tab|?|?|
+|Steam - Sign up section takes user to Contact us page/form|?|?|
+|Steam - Gallery section takes user to Contact us page/form|?|?|
+|Steam - Footer - 'Contact us' takes user to Gallery page|?|?|
+|Steam - Footer - Telephone link works|?|?|
+|Steam - Footer - Email link works|?|?|
+|Steam - Footer - Facebook, Twitter and Instagram links work|?|?|
+|Gallery - Layout appearance is correct (check for visibility of text, layout, no overlaps)|?|?|
+|Gallery - Scroll works where appropriate|?|?|
+|Gallery - Logo Home link works|?|?|
+|Gallery - All menu links take user to correct screen|?|?|
+|Gallery - Active menu item is correct|?|?|
+|Gallery - All images appear and show information on hover|?|?|
+|Gallery - Footer - 'Contact us' takes user to Gallery page|?|?|
+|Gallery - Footer - Telephone link works|?|?|
+|Gallery - Footer - Email link works|?|?|
+|Gallery - Footer - Facebook, Twitter and Instagram links work|?|?|
+|Contact - Layout appearance is correct (check for visibility of text, layout, no overlaps)|?|?|
+|Contact - Scroll works where appropriate|?|?|
+|Contact - Logo Home link works|?|?|
+|Contact - All menu links take user to correct screen|?|?|
+|Contact - Active menu item is correct|?|?|
+|Contact - Form shows correctly|?|?|
+|Contact - Name is mandatory|?|?|
+|Contact - Email is mandatory and validated|?|?|
+|Contact - Any number of checkboxes can be checked|?|?|
+|Contact - 'Sign me up!' once form is correctly completed takes user to SignedUp page|?|?|
+|Contact - Footer - 'Contact us' takes user to Gallery page|?|?|
+|Contact - Footer - Telephone link works|?|?|
+|Contact - Footer - Email link works|?|?|
+|Contact - Footer - Facebook, Twitter and Instagram links work|?|?|
+|SignedUp - Layout appearance is correct (check for visibility of text, layout, no overlaps)|?|?|
+|SignedUp - Scroll works where appropriate|?|?|
+|SignedUp - Logo Home link works|?|?|
+|SignedUp - All menu links take user to correct screen|?|?|
+|SignedUp - Active menu item is correct|?|?|
+|SignedUp - Home link in thank you section returns user to the home page|?|?|
+|SignedUp - Footer - 'Contact us' takes user to Gallery page|?|?|
+|SignedUp - Footer - Telephone link works|?|?|
+|SignedUp - Footer - Email link works|?|?|
+|SignedUp - Footer - Facebook, Twitter and Instagram links work|?|?|
+
 ### Desktop
-|Requirement|Result|
-|-------|-------|
-|Website loads|Pass|
+|Requirement|Result|Comments|
+|-------|-------|-------|
+|Website loads|?|?|
+|Home - Layout appearance is correct (check for visibility of text, layout, no overlaps)|?|?|
+|Home - Scroll works where appropriate|?|?|
+|Home - Logo Home link works|?|?|
+|Home - All menu links take user to correct screen|?|?|
+|Home - Active menu item is correct|?|?|
+|Home - Theme picture links take user to correct theme pages|?|?|
+|Home - Footer - 'Contact us' takes user to Contact us page/form|?|?|
+|Home - Footer - Telephone link works|?|?|
+|Home - Footer - Email link works|?|?|
+|Home - Footer - Facebook, Twitter and Instagram links work|?|?|
+|Modern Traction - Layout appearance is correct (check for visibility of text, layout, no overlaps)|?|?|
+|Modern Traction - Scroll works where appropriate|?|?|
+|Modern Traction - Logo Home link works|?|?|
+|Modern Traction - All menu links take user to correct screen|?|?|
+|Modern Traction - Active menu item is correct|?|?|
+|Modern Traction - Meetings are correct theme and all information visible|?|?|
+|Modern Traction - Map link takes user to Station Inn location on new tab|?|?|
+|Modern Traction - Sign up section takes user to Contact us page/form|?|?|
+|Modern Traction - Gallery section takes user to Contact us page/form|?|?|
+|Modern Traction - Footer - 'Contact us' takes user to Gallery page|?|?|
+|Modern Traction - Footer - Telephone link works|?|?|
+|Modern Traction - Footer - Email link works|?|?|
+|Modern Traction - Footer - Facebook, Twitter and Instagram links work|?|?|
+|Heritage Diesel - Layout appearance is correct (check for visibility of text, layout, no overlaps)|?|?|
+|Heritage Diesel - Scroll works where appropriate|?|?|
+|Heritage Diesel - Logo Home link works|?|?|
+|Heritage Diesel - All menu links take user to correct screen|?|?|
+|Heritage Diesel - Active menu item is correct|?|?|
+|Heritage Diesel - Meetings are correct theme and all information visible|?|?|
+|Heritage Diesel - Map link takes user to Station Inn location on new tab|?|?|
+|Heritage Diesel - Sign up section takes user to Contact us page/form|?|?|
+|Heritage Diesel - Gallery section takes user to Contact us page/form|?|?|
+|Heritage Diesel - Footer - 'Contact us' takes user to Gallery page|?|?|
+|Heritage Diesel - Footer - Telephone link works|?|?|
+|Heritage Diesel - Footer - Email link works|?|?|
+|Heritage Diesel - Footer - Facebook, Twitter and Instagram links work|?|?|
+|Steam - Layout appearance is correct (check for visibility of text, layout, no overlaps)|?|?|
+|Steam - Scroll works where appropriate|?|?|
+|Steam - Logo Home link works|?|?|
+|Steam - All menu links take user to correct screen|?|?|
+|Steam - Active menu item is correct|?|?|
+|Steam - Meetings are correct theme and all information visible|?|?|
+|Steam - Map link takes user to Station Inn location on new tab|?|?|
+|Steam - Sign up section takes user to Contact us page/form|?|?|
+|Steam - Gallery section takes user to Contact us page/form|?|?|
+|Steam - Footer - 'Contact us' takes user to Gallery page|?|?|
+|Steam - Footer - Telephone link works|?|?|
+|Steam - Footer - Email link works|?|?|
+|Steam - Footer - Facebook, Twitter and Instagram links work|?|?|
+|Gallery - Layout appearance is correct (check for visibility of text, layout, no overlaps)|?|?|
+|Gallery - Scroll works where appropriate|?|?|
+|Gallery - Logo Home link works|?|?|
+|Gallery - All menu links take user to correct screen|?|?|
+|Gallery - Active menu item is correct|?|?|
+|Gallery - All images appear and show information on hover|?|?|
+|Gallery - Footer - 'Contact us' takes user to Gallery page|?|?|
+|Gallery - Footer - Telephone link works|?|?|
+|Gallery - Footer - Email link works|?|?|
+|Gallery - Footer - Facebook, Twitter and Instagram links work|?|?|
+|Contact - Layout appearance is correct (check for visibility of text, layout, no overlaps)|?|?|
+|Contact - Scroll works where appropriate|?|?|
+|Contact - Logo Home link works|?|?|
+|Contact - All menu links take user to correct screen|?|?|
+|Contact - Active menu item is correct|?|?|
+|Contact - Form shows correctly|?|?|
+|Contact - Name is mandatory|?|?|
+|Contact - Email is mandatory and validated|?|?|
+|Contact - Any number of checkboxes can be checked|?|?|
+|Contact - 'Sign me up!' once form is correctly completed takes user to SignedUp page|?|?|
+|Contact - Footer - 'Contact us' takes user to Gallery page|?|?|
+|Contact - Footer - Telephone link works|?|?|
+|Contact - Footer - Email link works|?|?|
+|Contact - Footer - Facebook, Twitter and Instagram links work|?|?|
+|SignedUp - Layout appearance is correct (check for visibility of text, layout, no overlaps)|?|?|
+|SignedUp - Scroll works where appropriate|?|?|
+|SignedUp - Logo Home link works|?|?|
+|SignedUp - All menu links take user to correct screen|?|?|
+|SignedUp - Active menu item is correct|?|?|
+|SignedUp - Home link in thank you section returns user to the home page|?|?|
+|SignedUp - Footer - 'Contact us' takes user to Gallery page|?|?|
+|SignedUp - Footer - Telephone link works|?|?|
+|SignedUp - Footer - Email link works|?|?|
+|SignedUp - Footer - Facebook, Twitter and Instagram links work|?|?|
 
 
 ## Defect Tracking
