@@ -420,6 +420,10 @@ footer li {
         display: flex;
     }
 
+    .track-container {
+        display: none;
+    }
+
     .gallery-wrap {
         width: 20%;
         height: 200px;
