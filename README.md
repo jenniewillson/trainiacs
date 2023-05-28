@@ -4,30 +4,23 @@ Trainiacs is an exciting new website aimed at bringing Trainspotters together. U
 
 The website is designed as a simple way for people to find out about the meetings and trips, see photos shared by other users and sign up for regular emails to update them on meetings and how to book on for events. It also links to social media, where users can share more information and interact.
 
-/ IMAGE WILL BE ADDED HERE /
-
 ## Author
 Jennie Willson
 
 ## Project overview
 
-/ IMAGE OF SITE HERE /
+### [Trainiacs - link to live site](https://jenniewillson.github.io/trainiacs/modern.html)
 
-/ LINK TO DEPLOYED CODE /
+![image](https://github.com/jenniewillson/trainiacs/assets/127458925/bed51d6c-eff1-4299-8f96-e9617021c01d)
 
 #### Trainiacs - when Trainspotting goes social! 
 Ever thought how good it would be to have someone else to share your cops with over a good beer? Got some good spotting locations you want to share with others? Fancy some company at the end of the platform? Look no further, Trainiacs is for you!
 
 Monthly meetings at a pub recommended by the Good Beer Guide, a great opportunity to share all your trainspotting stories and help each other with identifying locos and stock. Separate meetings for modern traction, heritage diesel and heritage steam, to allow for a focus on a specific interest and plan trips focussed on those specific themes.
 
-Save money on travel and tickets using group discounts, learn about hidden gem locations, compare notes on missing all-timers and make friends who share your passion!
+Save money on travel and tickets using group discounts, learn about hidden gem locations, compare notes on missing all-timers and make friends who share your passion!  
 
-## Live Site
-
-[Trainiacs](https://jenniewillson.github.io/trainiacs/)
-
-## Repository
-/ LINK TO GITHUB REPO /
+## [Repository - Github](https://github.com/jenniewillson/trainiacs)
 
 ## Table of Contents
 / CONTENTS TABLE HERE /
@@ -145,9 +138,11 @@ Having looked at the font for the same era station signs, it was all uppercase, 
 ![Gallery](https://github.com/jenniewillson/trainiacs/assets/127458925/a0df3263-fb9d-45a6-8527-6d272fb72e64)
 
 ### Tablet Wireframes
+
 ![Tablet - Home page](https://github.com/jenniewillson/trainiacs/assets/127458925/01c2c821-9233-47b5-92e7-7ffc40bb9331)
 
 ### Desktop Wireframes
+
 ![Desktop - Home page](https://github.com/jenniewillson/trainiacs/assets/127458925/00852e36-90d6-485e-836a-d6a381c16773)
 
 # Features
@@ -160,7 +155,35 @@ Once this was resolved and I understood the requirement I have been committing c
 
 ## Implemented features
 
+### Header
+
+### Footer
+
+### Home page
+
+### Theme pages
+
+#### Meetings
+
+#### Contact link
+
+#### Gallery taster
+
+### Gallery
+
+### Contact form
+
+### Signed up
+
 ## Future features
+
+### Ability for users to submit photos
+
+### Mandatory check boxes on form
+
+### Events page
+
+#### Filter events
 
 # Testing
 
@@ -173,6 +196,12 @@ Once this was resolved and I understood the requirement I have been committing c
 ## Compatibility and Responsive Testing
 
 ## Manual Testing
+
+### Desktop
+|Requirement|Result|
+|-------|-------|
+|Website loads|Pass|
+
 
 ## Defect Tracking
 
