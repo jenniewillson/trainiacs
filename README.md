@@ -12,6 +12,8 @@ Jennie Willson
 ### [Trainiacs - link to live site](https://jenniewillson.github.io/trainiacs/modern.html)
 
 ![image](https://github.com/jenniewillson/trainiacs/assets/127458925/bed51d6c-eff1-4299-8f96-e9617021c01d)
+[Am I responsive link](https://ui.dev/amiresponsive?url=https://jenniewillson.github.io/trainiacs/modern.html
+)
 
 #### Trainiacs - when Trainspotting goes social! 
 Ever thought how good it would be to have someone else to share your cops with over a good beer? Got some good spotting locations you want to share with others? Fancy some company at the end of the platform? Look no further, Trainiacs is for you!
@@ -466,20 +468,24 @@ Once this was resolved and I understood the requirement I have been committing c
 
 - [Images not appearing](https://github.com/jenniewillson/trainiacs/issues/2#issue-1718216540)
 - [Images disappeared after updated ](https://github.com/jenniewillson/trainiacs/issues/3#issue-1718308757)
-- [Unmanageable css](https://github.com/jenniewillson/trainiacs/issues/4#issue-1718310163)
 - [Link not working for images on home page ](https://github.com/jenniewillson/trainiacs/issues/5#issue-1718324678)
 - [HTML Validator errors](https://github.com/jenniewillson/trainiacs/issues/6#issue-1718326880)
-- [Social media links get 404 error](https://github.com/jenniewillson/trainiacs/issues/7#issue-1718469587)
 - [Header background colour missing on some pages](https://github.com/jenniewillson/trainiacs/issues/8#issue-1718476485)
-
-
-
-
-
+- [Nav-bar menu items left aligned](https://github.com/jenniewillson/trainiacs/issues/10)
+- [Navbar border not reaching edges of page](https://github.com/jenniewillson/trainiacs/issues/11)
+- [Hamburger menu disappearing and wrapping](https://github.com/jenniewillson/trainiacs/issues/13)
 
 ## Defects of Note
 
+##### Of note due to length of time taken to resolve
+- [Meeting items too far to the right](https://github.com/jenniewillson/trainiacs/issues/14)
+
+##### Of note due to key learning points
+- [Unmanageable css](https://github.com/jenniewillson/trainiacs/issues/4#issue-1718310163)
+- [Social media links get 404 error](https://github.com/jenniewillson/trainiacs/issues/7#issue-1718469587)
+
 ## Outstanding Defects
+- [Pictures are of a low quality](https://github.com/jenniewillson/trainiacs/issues/9)
 
 ## Core Web Vitals
 
@@ -538,3 +544,4 @@ http://www.gwr.org.uk/liveries.html
 - https://www.w3schools.com/
 https://blog.hubspot.com/website/html-space https://stackoverflow.com/
 https://stackoverflow.com/
+https://ui.dev/amiresponsive
