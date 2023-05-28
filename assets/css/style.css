@@ -80,6 +80,11 @@ body {
     top: 10px;
 }
 
+.hmbgr-menu-list a:hover {
+    color: #013602;
+    font-weight: 900;
+}
+
 .active {
     font-weight: 900;
     text-decoration: underline;
@@ -99,6 +104,11 @@ body {
     font-size: 25px;
     background: #ffe7ab;
     color: #660000;
+}
+
+#menu-item a:hover {
+    color: #013602;
+    font-weight: 900;
 }
 
 /*HOME PAGE*/
