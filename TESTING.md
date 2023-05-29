@@ -4,7 +4,28 @@
 
 ### CSS Validation
 
+![image](https://github.com/jenniewillson/trainiacs/assets/127458925/8b303821-81d2-4423-9186-a40d19ecb51a)
+
 ### HTML Validation
+
+#### index.html
+![image](https://github.com/jenniewillson/trainiacs/assets/127458925/bed30507-6283-49fa-bbd3-822c5edaced9)
+
+#### modern.html
+![image](https://github.com/jenniewillson/trainiacs/assets/127458925/41061766-e5a8-4cd6-8c77-0a8e1a929a27)
+
+#### diesel.html
+![image](https://github.com/jenniewillson/trainiacs/assets/127458925/fdd390f2-7859-44ee-8c34-888a0fc4dbcb)
+
+#### steam.html
+
+#### gallery.html
+
+#### contact.html
+
+#### SignedUp.html
+
+#### 404.html
 
 ## Compatibility and Responsive Testing
 
