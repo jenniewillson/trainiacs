@@ -239,20 +239,29 @@ successfully
 
 ## Future features
 
-- to have a longer term calendar of events available, to be able to filter them on topic and to be able to have them in a database that dynamically updates
-- to be able to sign up for events with a number limit and ability to pay online
-- consider adding a Q&A style page that users can post in and give answers and get email updates
-- Future development to make at least one checkbox mandatory and to have a member page where you can update your mailing preferences
-- Mailing form would be connected to an endpoint and a database of details and preferences
-- Add GDPR statement
+### Calendar of events
+Add a page containing a longer term calendar of events available, to be able to filter them on topic and to be able to have them in a database that dynamically updates as each date passes.
+
+### Event sign-up
+To be able to sign up for events with a number limit and ability to pay online
+
+### Q&A threads
+Consider adding a Q&A style page that users can post in and give answers and get email updates
+
+### Mandatory check box on form
+Make at least one checkbox mandatory on the Sign Up form 
+
+### Member login
+A member page where you can login and update your mailing preferences and details
+
+### Sign up works!
+Mailing form would be connected to an endpoint and a database of details and preferences
+
+### GDPR statement
+Add the legally required GDPR statement about how your personal information will be stored and what it will be used for
 
 ### Ability for users to submit photos
-
-### Mandatory check boxes on form
-
-### Events page
-
-#### Filter events
+Form that allows users to upload their own photos and descriptions for submission for the gallery
 
 # Testing
 
