@@ -369,6 +369,19 @@ footer i:hover {
     transform: scale(1.5, 1.5);
 }
 
+/*404 PAGE*/
+
+#broken-link {
+    background: #013602;
+}
+
+#broken-link-box {
+    background: #660000;
+    color: #ffe7ab;
+    border: 3px solid #ffe7ab;
+    text-align: center;
+}
+
 /*MEDIA QUERIES*/
 
 /*STYLING FOR SCREENS WIDER THAN MOBILE*/
