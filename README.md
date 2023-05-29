@@ -26,7 +26,42 @@ Save money on travel and tickets using group discounts, learn about hidden gem l
 ## [Repository - Github](https://github.com/jenniewillson/trainiacs)
 
 ## Table of Contents
-# / CONTENTS TABLE HERE /
+
+  * [Target Audience](#target-audience)
+  * [Project Goals](#project-goals)
+  * [User Stories](#user-stories)
+    + [Site users (Trainspotters)](#site-users--trainspotters-)
+    + [Site Owner](#site-owner)
+    + [Developer](#developer)
+  * [Design Choices](#design-choices)
+    + [Colours](#colours)
+    + [Typography](#typography)
+    + [Imagery](#imagery)
+    + [Animations and Transitions](#animations-and-transitions)
+  * [Site Structure](#site-structure)
+  * [Wireframes](#wireframes)
+    + [Mobile Wireframes](#mobile-wireframes)
+    + [Tablet Wireframes](#tablet-wireframes)
+    + [Desktop Wireframes](#desktop-wireframes)
+- [Features](#features)
+  * [Version control](#version-control)
+  * [Implemented features](#implemented-features)
+  * [Future features](#future-features)
+- [Testing](#testing)
+- [Technologies Used](#technologies-used)
+  * [Programming Languages](#programming-languages)
+  * [Frameworks and Extensions](#frameworks-and-extensions)
+  * [Fonts](#fonts)
+  * [Tools](#tools)
+- [Deployment](#deployment)
+  * [Deploy Locally](#deploy-locally)
+  * [Deploy to GitHub Pages](#deploy-to-github-pages)
+- [Credits](#credits)
+- [Content and Media](#content-and-media)
+  * [Acknowledgements](#acknowledgements)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 ## Target Audience
 - Trainspotters new and old 
