@@ -18,12 +18,16 @@
 ![image](https://github.com/jenniewillson/trainiacs/assets/127458925/fdd390f2-7859-44ee-8c34-888a0fc4dbcb)
 
 #### steam.html
+![image](https://github.com/jenniewillson/trainiacs/assets/127458925/f365d4a6-695d-4411-9c00-6620c3674c43)
 
 #### gallery.html
+![image](https://github.com/jenniewillson/trainiacs/assets/127458925/79be62a8-a7f5-4513-884d-a1450c3d47c5)
 
 #### contact.html
+![image](https://github.com/jenniewillson/trainiacs/assets/127458925/d0567a2f-747b-4770-9dba-fd70ab7aef98)
 
 #### SignedUp.html
+![image](https://github.com/jenniewillson/trainiacs/assets/127458925/72bf7344-32a7-4f54-b53a-2124191ee5dd)
 
 #### 404.html
 
