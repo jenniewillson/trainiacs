@@ -30,6 +30,7 @@
 ![image](https://github.com/jenniewillson/trainiacs/assets/127458925/72bf7344-32a7-4f54-b53a-2124191ee5dd)
 
 #### 404.html
+![image](https://github.com/jenniewillson/trainiacs/assets/127458925/eaad865a-1d34-4008-9641-90ea9766c56c)
 
 ## Compatibility and Responsive Testing
 
@@ -431,6 +432,61 @@
 
 ### Accessibility Audits
 
+#### Contrast checker
+![image](https://github.com/jenniewillson/trainiacs/assets/127458925/6271a7df-b2f1-4d1c-b73f-555a7e4d9e11)
+
+![image](https://github.com/jenniewillson/trainiacs/assets/127458925/44101b4c-0d66-4b03-9e6b-d9191410ab36)
+
+#### Lighthouse
+
+##### index.html
+###### Mobile
+![image](https://github.com/jenniewillson/trainiacs/assets/127458925/2e062400-3d72-40d7-b4a0-54c999de2727)
+##### Desktop
+![image](https://github.com/jenniewillson/trainiacs/assets/127458925/1faf7f05-42fb-4ef5-aaf3-831caebcc1f4)
+
+#### modern.html
+###### Mobile
+![image](https://github.com/jenniewillson/trainiacs/assets/127458925/b0cf3c2b-208d-463e-ba7a-2c4306d09807)
+##### Desktop
+![image](https://github.com/jenniewillson/trainiacs/assets/127458925/7c39ccef-863a-46e5-b436-0682d3d68ada)
+*As below, Best Practice issue is image with incorrect aspect ratio - this relates to the track, which is not an issue as it appears as it is designed to - and XSS which is a learning point for the future for the developer:*
+![image](https://github.com/jenniewillson/trainiacs/assets/127458925/9e3b03dc-c5e4-42ec-a2ac-ec710172e460)
+
+#### diesel.html
+###### Mobile
+![image](https://github.com/jenniewillson/trainiacs/assets/127458925/29d12331-c844-4b62-ac0b-1f242721c92b)
+##### Desktop
+![image](https://github.com/jenniewillson/trainiacs/assets/127458925/0284a2be-3b9b-402a-8165-408413eceb95)
+*Best practice issue is as per modern.html*
+
+#### steam.html
+###### Mobile
+![image](https://github.com/jenniewillson/trainiacs/assets/127458925/205d4abc-8f54-4a64-ae0b-5e0aa8bd4499)
+##### Desktop
+![image](https://github.com/jenniewillson/trainiacs/assets/127458925/95acb52c-f491-4d9c-8662-b81e82f6fdf7)
+*Best practice issue is as per modern.html*
+
+#### gallery.html
+###### Mobile
+![image](https://github.com/jenniewillson/trainiacs/assets/127458925/5705530b-2963-4e9d-823b-b03c9787319d)
+##### Desktop
+![image](https://github.com/jenniewillson/trainiacs/assets/127458925/0b7cf51b-a67f-4aac-b674-9f410f9c9678)
+
+#### contact.html
+###### Mobile
+![image](https://github.com/jenniewillson/trainiacs/assets/127458925/6ff7a14c-7ade-46d3-9dd6-586adfbf7610)
+##### Desktop
+![image](https://github.com/jenniewillson/trainiacs/assets/127458925/583480b7-762c-4c4d-b33a-3b9cd4610556)
+
+#### SignedUp.html
+###### Mobile
+![image](https://github.com/jenniewillson/trainiacs/assets/127458925/ef3fa772-7b42-4833-98f5-dfccd4af30ac)
+##### Desktop
+![image](https://github.com/jenniewillson/trainiacs/assets/127458925/07c27c4c-795b-49dd-bbce-5a270f7d16f7)
+
+
 ### Keyboard Navigation
+![bandicam 2023-05-29 21-33-47-823](https://github.com/jenniewillson/trainiacs/assets/127458925/910d22a9-2b06-47e2-866a-750ca3fa137c)
 
 ### Chrome Vox Reader
