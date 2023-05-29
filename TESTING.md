@@ -8,6 +8,8 @@
 
 ### HTML Validation
 
+It is highlighted here that there could be a better use of headings. I considered this but felt that with the website being quite simple and pages working well linearly, this was not a high requirement. It is, however, something I would consider for the future.
+
 #### index.html
 ![image](https://github.com/jenniewillson/trainiacs/assets/127458925/bed30507-6283-49fa-bbd3-822c5edaced9)
 
@@ -426,8 +428,6 @@
 ## Outstanding Defects
 - [Pictures are of a low quality](https://github.com/jenniewillson/trainiacs/issues/9)
 
-## Core Web Vitals
-
 ## Accessibility Testing
 
 ### Accessibility Audits
@@ -450,7 +450,9 @@
 ![image](https://github.com/jenniewillson/trainiacs/assets/127458925/b0cf3c2b-208d-463e-ba7a-2c4306d09807)
 ##### Desktop
 ![image](https://github.com/jenniewillson/trainiacs/assets/127458925/7c39ccef-863a-46e5-b436-0682d3d68ada)
+
 *As below, Best Practice issue is image with incorrect aspect ratio - this relates to the track, which is not an issue as it appears as it is designed to - and XSS which is a learning point for the future for the developer:*
+
 ![image](https://github.com/jenniewillson/trainiacs/assets/127458925/9e3b03dc-c5e4-42ec-a2ac-ec710172e460)
 
 #### diesel.html
@@ -458,6 +460,7 @@
 ![image](https://github.com/jenniewillson/trainiacs/assets/127458925/29d12331-c844-4b62-ac0b-1f242721c92b)
 ##### Desktop
 ![image](https://github.com/jenniewillson/trainiacs/assets/127458925/0284a2be-3b9b-402a-8165-408413eceb95)
+
 *Best practice issue is as per modern.html*
 
 #### steam.html
@@ -465,6 +468,7 @@
 ![image](https://github.com/jenniewillson/trainiacs/assets/127458925/205d4abc-8f54-4a64-ae0b-5e0aa8bd4499)
 ##### Desktop
 ![image](https://github.com/jenniewillson/trainiacs/assets/127458925/95acb52c-f491-4d9c-8662-b81e82f6fdf7)
+
 *Best practice issue is as per modern.html*
 
 #### gallery.html
@@ -489,4 +493,5 @@
 ### Keyboard Navigation
 ![bandicam 2023-05-29 21-33-47-823](https://github.com/jenniewillson/trainiacs/assets/127458925/910d22a9-2b06-47e2-866a-750ca3fa137c)
 
-### Chrome Vox Reader
+### Screen reader
+[Screen reader video](https://clipchamp.com/watch/pCEN24gf4NK)
