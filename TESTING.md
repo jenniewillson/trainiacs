@@ -1,5 +1,61 @@
 # Trainiacs testing record
 
+## Table of contents
+
+- [Validation Testing](#validation-testing)
+  * [CSS Validation](#css-validation)
+* [HTML Validation](#html-validation)
+    + [index.html](#indexhtml)
+    + [modern.html](#modernhtml)
+    + [diesel.html](#dieselhtml)
+    + [steam.html](#steamhtml)
+    + [gallery.html](#galleryhtml)
+    + [contact.html](#contacthtml)
+    + [SignedUp.html](#signeduphtml)
+    + [404.html](#404html)
+- [Compatibility and Responsive Testing](#compatibility-and-responsive-testing)
+- [Manual Testing](#manual-testing)
+  * [Mobile](#mobile)
+  * [Tablet](#tablet)
+  * [Desktop](#desktop)
+  * [Simulation of other devices](#simulation-of-other-devices)
+  * [User stories](#user-stories)
+- [Defect Tracking](#defect-tracking)
+- [Defects of Note](#defects-of-note)
+    + [Of note due to length of time taken to resolve](#of-note-due-to-length-of-time-taken-to-resolve)
+    + [Of note due to key learning points](#of-note-due-to-key-learning-points)
+- [Outstanding Defects](#outstanding-defects)
+- [Accessibility Testing](#accessibility-testing)
+  * [Accessibility Audits](#accessibility-audits)
+    + [Contrast checker](#contrast-checker)
+    + [Lighthouse](#lighthouse)
+      - [index.html](#indexhtml-1)
+        * [Mobile](#mobile-1)
+      - [Desktop](#desktop-1)
+    + [modern.html](#modernhtml-1)
+        * [Mobile](#mobile-2)
+      - [Desktop](#desktop-2)
+    + [diesel.html](#dieselhtml-1)
+        * [Mobile](#mobile-3)
+      - [Desktop](#desktop-3)
+    + [steam.html](#steamhtml-1)
+        * [Mobile](#mobile-4)
+      - [Desktop](#desktop-4)
+    + [gallery.html](#galleryhtml-1)
+        * [Mobile](#mobile-5)
+      - [Desktop](#desktop-5)
+    + [contact.html](#contacthtml-1)
+        * [Mobile](#mobile-6)
+      - [Desktop](#desktop-6)
+    + [SignedUp.html](#signeduphtml-1)
+        * [Mobile](#mobile-7)
+      - [Desktop](#desktop-7)
+  * [Keyboard Navigation](#keyboard-navigation)
+  * [Screen reader](#screen-reader)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
 ## Validation Testing
 
 ### CSS Validation
@@ -39,7 +95,8 @@ It is highlighted here that there could be a better use of headings. I considere
 ## Manual Testing
 
 ### Mobile
-#### Tested on iPhone 13
+
+Tested on iPhone 13
 
 |Requirement - *Home page*|Result|Comments|
 |-------|-------|-------|
@@ -160,6 +217,9 @@ It is highlighted here that there could be a better use of headings. I considere
 |Clicking on text container returns user to Home|Pass|N/A|
 
 ### Tablet
+
+Tested on iPad
+
 |Requirement - *Home page*|Result|Comments|
 |-------|-------|-------|
 |Website loads|Pass|No delay|
@@ -388,6 +448,7 @@ It is highlighted here that there could be a better use of headings. I considere
 |Logo Home link works|Pass|N/A|
 |Clicking on text container returns user to Home|Pass|N/A|
 
+### Simulation of other devices
 
 ### User stories
 |Story ID|Result|Comments|
@@ -417,11 +478,11 @@ It is highlighted here that there could be a better use of headings. I considere
 
 ## Defects of Note
 
-##### Of note due to length of time taken to resolve
+#### Of note due to length of time taken to resolve
 - [Meeting items too far to the right](https://github.com/jenniewillson/trainiacs/issues/14)
 - [Hamburger menu disappearing and wrapping](https://github.com/jenniewillson/trainiacs/issues/13)
 
-##### Of note due to key learning points
+#### Of note due to key learning points
 - [Unmanageable css](https://github.com/jenniewillson/trainiacs/issues/4#issue-1718310163)
 - [Social media links get 404 error](https://github.com/jenniewillson/trainiacs/issues/7#issue-1718469587)
 
