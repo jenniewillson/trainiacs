@@ -371,15 +371,28 @@ footer i:hover {
 
 /*404 PAGE*/
 
+#logo-broken-link {
+    max-height: 20vh;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 #broken-link {
     background: #013602;
-}
+    }
 
 #broken-link-box {
     background: #660000;
     color: #ffe7ab;
     border: 3px solid #ffe7ab;
     text-align: center;
+    padding: 10px;
+    margin: 5%;
+    line-height: 30px;
+}
+
+#broken-link-box {
+    font-size: 20px;
 }
 
 /*MEDIA QUERIES*/
