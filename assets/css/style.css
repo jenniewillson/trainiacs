@@ -272,6 +272,7 @@ p.home-theme-text {
     line-height: 0;
     column-count: 2;
     column-gap: 0px;
+    margin-bottom: 57px;
 }
 
 #photo img {
@@ -379,7 +380,7 @@ footer i:hover {
 
 #broken-link {
     background: #013602;
-    }
+}
 
 #broken-link-box {
     background: #660000;
@@ -435,6 +436,7 @@ footer i:hover {
         line-height: 0;
         column-count: 4;
         column-gap: 0px;
+        margin-bottom: 57px;
     }
 
     .sign-up-form {
@@ -446,7 +448,7 @@ footer i:hover {
     .meeting-item {
         display: flex;
         flex-direction: row;
-                font-size: 25px;
+        font-size: 25px;
     }
 
     .theme-text {
@@ -483,17 +485,18 @@ footer i:hover {
     .signed-up {
         font-size: 40px;
     }
-        .return-home {
-            font-size: 30px;
-        }
 
-                footer {
-                    font-size: 30px;
-                }
-        
-                footer li {
-                    font-size: 30px;
-                }
+    .return-home {
+        font-size: 30px;
+    }
+
+    footer {
+        font-size: 30px;
+    }
+
+    footer li {
+        font-size: 30px;
+    }
 }
 
 /*STYLING TO REMOVE HAMBURGER MENU WHERE NAVBAR WILL FIT*/
