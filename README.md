@@ -174,23 +174,68 @@ Once this was resolved and I understood the requirement I have been committing c
 
 ### Header
 
+- Priority - brand identity and easy navigation
+- Used logo that fitted with the theme
+- Logo links back to home page, as this is intuitive as a lot of websites work this way
+- Menu is responsive - Hamburger for smaller screens and navbar for wider
+- Did consider navbar remaining at top when scrolling but decided this wasn't an essential as only the gallery page is likely to scroll the menu out of sight.
+
 ### Footer
+
+- Contact us link - intuitive to users to find this in the footer, despite it being available elsewhere
+- Telephone contact and email available here as likely to be preferred by target audience
+- Social media links avaialble and opening in a new tab
 
 ### Home page
 
+- Pictures to capture the user's interest
+- Immediate obvious links to theme pages from large pictures as well as menu
+- Simple and styled to theme
+
 ### Theme pages
+
+- three clear sections, as below
+- clear separation with background
+- easy links where needed, covering whole section rather than requiring pixel hunting
+- links in addition to menu
 
 #### Meetings
 
+- clearly showing the next few meetings
+- fun 'timeline' icon of train track fits with theme
+- links to meeting location where relevant, also opening in separate tabs
+
 #### Contact link
+
+- Gives a bit more information about signing up
 
 #### Gallery taster
 
+- Gives a taster of the gallery images, appropriate to the page theme 
+
 ### Gallery
+
+- Shows a range of photos of interest to users
+- Responsive and flexible - so different images can be swapped in and out over time
+- Photo description avaialble on hover
 
 ### Contact form
 
+- Allows users to sign up for an email list
+- Mandatory fields for name and email
+- Clear explanation of benefit of signing up
+
 ### Signed up
+
+- Confirmation to the user that they have signed up
+successfully
+- Easy redirection to Home page
+
+### Custom 404 page
+
+- Appears more professional as it is styled to the theme
+- Fun message, again with a train theme
+- Easy navigation back to Home Page
 
 ## Future features
 
