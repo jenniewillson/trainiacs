@@ -391,8 +391,12 @@ footer i:hover {
     line-height: 30px;
 }
 
-#broken-link-box {
-    font-size: 20px;
+#broken-link-box h1 {
+    font-weight: 800;
+}
+
+#broken-link-box p {
+    font-size: 25px;
 }
 
 /*MEDIA QUERIES*/
