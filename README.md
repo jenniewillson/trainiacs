@@ -12,10 +12,11 @@ Jennie Willson
 ### [Trainiacs - link to live site](https://jenniewillson.github.io/trainiacs/modern.html)
 
 ![image](https://github.com/jenniewillson/trainiacs/assets/127458925/bed51d6c-eff1-4299-8f96-e9617021c01d)
-[Am I responsive link](https://ui.dev/amiresponsive?url=https://jenniewillson.github.io/trainiacs/modern.html
+
+["Am I responsive?" link](https://ui.dev/amiresponsive?url=https://jenniewillson.github.io/trainiacs/modern.html
 )
 
-#### Trainiacs - when Trainspotting goes social! 
+### Trainiacs - when Trainspotting goes social! 
 Ever thought how good it would be to have someone else to share your cops with over a good beer? Got some good spotting locations you want to share with others? Fancy some company at the end of the platform? Look no further, Trainiacs is for you!
 
 Monthly meetings at a pub recommended by the Good Beer Guide, a great opportunity to share all your trainspotting stories and help each other with identifying locos and stock. Separate meetings for modern traction, heritage diesel and heritage steam, to allow for a focus on a specific interest and plan trips focussed on those specific themes.
@@ -25,7 +26,7 @@ Save money on travel and tickets using group discounts, learn about hidden gem l
 ## [Repository - Github](https://github.com/jenniewillson/trainiacs)
 
 ## Table of Contents
-/ CONTENTS TABLE HERE /
+# / CONTENTS TABLE HERE /
 
 ## Target Audience
 - Trainspotters new and old 
@@ -46,52 +47,66 @@ Save money on travel and tickets using group discounts, learn about hidden gem l
 ## User Stories
 
 ### Site users (Trainspotters)
+##### US1
 **As a** Trainspotter  
 **I want** to be able to meet socially with other Trainspotters  
 **So that** I have some company on long trainspotting days  
 
+##### US2
 **As a** Trainspotter  
 **I want** to be able to get the best value on tickets for trains and events  
 **So that** I am able to save money on what can be an expensive hobby  
 
+##### US3
 **As a** Trainspotter  
 **I want** to be able to gain further information on missing identities of trains I have seen  
 **So that** I can confirm any spots I wasn't sure about  
 
+##### US4
 **As a** Trainspotter  
 **I want** to share my passion for trains with other people in a place I feel comfortable and happy  
 **So that** I feel less lonely and know that other people are interested in the same things as me  
 
+##### US5
 **As a** Trainspotter  
 **I want** to be able to easily see a calendar of meetings  
 **So that** I know when and where they are happening and I can arrange to attend  
 
+##### US6
 **As a** Trainspotter  
 **I want** to be able to easily see planned events  
 **So that** I know when and where they are happening and I can arrange to attend  
 
+##### US7
 **As a** Trainspotter  
 **I want** to be able to sign up to a mailing list to get further information as soon as it is available and about how to book on to trips  
 **So that** I get information quickly and am able to take advantage of opportunities  
 
+##### US8
 **As a** Trainspotter  
 **I want** to be able to share great photos I have taken  
 **So that** I get recognition and am able to encourage more people to attend meetings and events  
 
 ### Site Owner
+
+##### US9
 **As a** Trainiacs Co-ordinator  
 **I want** a single first point of contact for trainspotters to find out about us  
 **So that** I can point them to a single place to access all the information they need  
 
+##### US10
 **As a** Trainiacs Co-ordinator  
 **I want** trainspotters to be able to complete a form to submit their name and email  
 **So that** it is easier for me to compile and maintain a mailing list  
 
 ### Developer
+
+##### US11
 **As a** Developer  
 **I want** to be able to test and demonstrate my coding skills  
 **So that** I am able to improve and demonstrate my ability  
 
+##### US12
 **As a** Developer  
 **I want** to learn about accessible websites  
 **So that** I am able to develop a website that is accessible to as many people as possible  
@@ -463,6 +478,21 @@ Once this was resolved and I understood the requirement I have been committing c
 |SignedUp - Footer - Email link works|?|?|
 |SignedUp - Footer - Facebook, Twitter and Instagram links work|?|?|
 
+### User stories
+|Story ID|Result|Comments|
+|-------|-------|-------|
+|US1|?|?|
+|US2|?|?|
+|US3|?|?|
+|US4|?|?|
+|US5|?|?|
+|US6|?|?|
+|US7|?|?|
+|US8|?|?|
+|US9|?|?|
+|US10|?|?|
+|US11|?|?|
+|US12|?|?|
 
 ## Defect Tracking
 
