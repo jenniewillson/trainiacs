@@ -211,6 +211,8 @@ Once this was resolved and I understood the requirement I have been committing c
 
 # Testing
 
+[See testing.md for detailed testing record](testing.md)
+
 # Technologies Used
 
 https://coolors.co/310101-cfb53b-ffe7ab-660000-013602  
