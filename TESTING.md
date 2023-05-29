@@ -11,111 +11,125 @@
 ## Manual Testing
 
 ### Mobile
+#### Tested on iPhone 13
 
 |Requirement - *Home page*|Result|Comments|
 |-------|-------|-------|
-|Website loads|?|?|
-|Layout appearance is correct (check for visibility of text, layout, no overlaps)|?|?|
-|Scroll works where appropriate|?|?|
-|Logo Home link works|?|?|
-|All menu links take user to correct screen|?|?|
-|Active menu item is correct|?|?|
-|Theme picture links take user to correct theme pages|?|?|
-|Footer - 'Contact us' takes user to Contact us page/form|?|?|
-|Footer - Telephone link works|?|?|
-|Footer - Email link works|?|?|
-|Footer - Facebook, Twitter and Instagram links work|?|?|
+|Website loads|Pass|No delay|
+|Layout appearance is correct (check for visibility of text, layout, no overlaps)|Pass|Testing showed the bottom theme image was part hidden behind the footer so this was corrected|
+|Scroll works where appropriate|Pass|N/A|
+|Logo Home link works|Pass|Re-loads Home screen|
+|Dropdown menu appears on selecting hamburger icon|Pass|N/A|
+|All menu links take user to correct screen|Pass|Note: returned to Home screen between each selection|
+|Active menu item is correct|Pass|Home is underlined and heavier font|
+|Theme picture links take user to correct theme pages|Pass|Note: returned to Home screen between each selection|
+|Footer - 'Contact us' takes user to Contact us page/form|Pass|N/A|
+|Footer - Telephone link works|Pass|Brought up 'Call' option on phone with number|
+|Footer - Email link works|Pass|Opened default mail app|
+|Footer - Facebook, Twitter and Instagram links work|Pass|Opened separate web page or relevant app|
 
 |Requirement - *Modern page*|Result|Comments|
 |-------|-------|-------|
-|Layout appearance is correct (check for visibility of text, layout, no overlaps)|?|?|
-|Scroll works where appropriate|?|?|
-|Logo Home link works|?|?|
-|All menu links take user to correct screen|?|?|
-|Active menu item is correct|?|?|
-|Meetings are correct theme and all information visible|?|?|
-|Map link takes user to Station Inn location on new tab|?|?|
-|Sign up section takes user to Contact us page/form|?|?|
-|Gallery section takes user to Contact us page/form|?|?|
-|'Contact us' takes user to Gallery page|?|?|
-|Footer - Telephone link works|?|?|
-|Footer - Email link works|?|?|
-|Footer - Facebook, Twitter and Instagram links work|?|?|
+|Layout appearance is correct (check for visibility of text, layout, no overlaps)|Pass|N/A|
+|Scroll works where appropriate|Pass|Able to scroll to see Gallery image|
+|Logo Home link works|Pass|N/A|
+|Dropdown menu appears on selecting hamburger icon|Pass|N/A|
+|All menu links take user to correct screen|Pass|N/A|
+|Active menu item is correct|Pass|N/A|
+|Meetings are correct theme and all information visible|Pass|N/A|
+|Map link takes user to Station Inn location on new tab|Pass|Link opened in default Maps app and took me straight to the location|
+|Sign up section takes user to Contact us page/form|Pass|N/A|
+|Gallery section takes user to Gallery page|Pass|N/A|
+|Footer - 'Contact us' takes user to Contact us page/form|Pass|N/A|
+|Footer - Telephone link works|Pass|Brought up 'Call' option on phone with number|
+|Footer - Email link works|Pass|Opened default mail app|
+|Footer - Facebook, Twitter and Instagram links work|Pass|Opened separate web page or relevant app|
 
 |Requirement - *Diesel page*|Result|Comments|
 |-------|-------|-------|
-|Layout appearance is correct (check for visibility of text, layout, no overlaps)|?|?|
-|Scroll works where appropriate|?|?|
-|Logo Home link works|?|?|
-|All menu links take user to correct screen|?|?|
-|Active menu item is correct|?|?|
-|Meetings are correct theme and all information visible|?|?|
-|Map link takes user to Station Inn location on new tab|?|?|
-|Sign up section takes user to Contact us page/form|?|?|
-|Gallery section takes user to Contact us page/form|?|?|
-|Footer - 'Contact us' takes user to Gallery page|?|?|
-|Footer - Telephone link works|?|?|
-|Footer - Email link works|?|?|
-|Footer - Facebook, Twitter and Instagram links work|?|?|
+|Layout appearance is correct (check for visibility of text, layout, no overlaps)|Pass|N/A|
+|Scroll works where appropriate|Pass|Able to scroll to see Gallery image|
+|Logo Home link works|Pass|N/A|
+|Dropdown menu appears on selecting hamburger icon|Pass|N/A|
+|All menu links take user to correct screen|Pass|N/A|
+|Active menu item is correct|Pass|N/A|
+|Meetings are correct theme and all information visible|Pass|N/A|
+|Map link takes user to Station Inn location on new tab|Pass|Link opened in default Maps app and took me straight to the location|
+|Sign up section takes user to Contact us page/form|Pass|N/A|
+|Gallery section takes user to Gallery page|Pass|N/A|
+|Footer - 'Contact us' takes user to Contact us page/form|Pass|N/A|
+|Footer - Telephone link works|Pass|Brought up 'Call' option on phone with number|
+|Footer - Email link works|Pass|Opened default mail app|
+|Footer - Facebook, Twitter and Instagram links work|Pass|Opened separate web page or relevant app|
 
 |Requirement - *Steam page*|Result|Comments|
 |-------|-------|-------|
-|Layout appearance is correct (check for visibility of text, layout, no overlaps)|?|?|
-|Scroll works where appropriate|?|?|
-|Logo Home link works|?|?|
-|All menu links take user to correct screen|?|?|
-|Active menu item is correct|?|?|
-|Meetings are correct theme and all information visible|?|?|
-|Map link takes user to Station Inn location on new tab|?|?|
-|Sign up section takes user to Contact us page/form|?|?|
-|Gallery section takes user to Contact us page/form|?|?|
-|Footer - 'Contact us' takes user to Gallery page|?|?|
-|Footer - Telephone link works|?|?|
-|Footer - Email link works|?|?|
-|Footer - Facebook, Twitter and Instagram links work|?|?|
+|Layout appearance is correct (check for visibility of text, layout, no overlaps)|Pass|N/A|
+|Scroll works where appropriate|Pass|Able to scroll to see Gallery image|
+|Logo Home link works|Pass|N/A|
+|Dropdown menu appears on selecting hamburger icon|Pass|N/A|
+|All menu links take user to correct screen|Pass|N/A|
+|Active menu item is correct|Pass|N/A|
+|Meetings are correct theme and all information visible|Pass|N/A|
+|Map link takes user to Station Inn location on new tab|Pass|Link opened in default Maps app and took me straight to the location|
+|Sign up section takes user to Contact us page/form|Pass|N/A|
+|Gallery section takes user to Gallery page|Pass|N/A|
+|Footer - 'Contact us' takes user to Contact us page/form|Pass|N/A|
+|Footer - Telephone link works|Pass|Brought up 'Call' option on phone with number|
+|Footer - Email link works|Pass|Opened default mail app|
+|Footer - Facebook, Twitter and Instagram links work|Pass|Opened separate web page or relevant app|
 
 |Requirement - *Gallery page*|Result|Comments|
 |-------|-------|-------|
-|Layout appearance is correct (check for visibility of text, layout, no overlaps)|?|?|
-|Scroll works where appropriate|?|?|
-|Logo Home link works|?|?|
-|All menu links take user to correct screen|?|?|
-|Active menu item is correct|?|?|
-|All images appear and show information on hover|?|?|
-|Footer - 'Contact us' takes user to Gallery page|?|?|
-|Footer - Telephone link works|?|?|
-|Footer - Email link works|?|?|
-|Footer - Facebook, Twitter and Instagram links work|?|?|
+|Layout appearance is correct (check for visibility of text, layout, no overlaps)|Pass|N/A|
+|Scroll works where appropriate|Pass|Able to scroll to see all images|
+|Logo Home link works|Pass|N/A|
+|Dropdown menu appears on selecting hamburger icon|Pass|N/A|
+|All menu links take user to correct screen|Pass|N/A|
+|Active menu item is correct|Pass|N/A|
+|All images appear and show information on hover|Pass|Hover not usable on mobile but can hold thumb on a photo and description appears|
+|Footer - 'Contact us' takes user to Contact us page/form|Pass|N/A|
+|Footer - Telephone link works|Pass|Brought up 'Call' option on phone with number|
+|Footer - Email link works|Pass|Opened default mail app|
+|Footer - Facebook, Twitter and Instagram links work|Pass|Opened separate web page or relevant app|
 
 |Requirement - *Contact page*|Result|Comments|
 |-------|-------|-------|
-|Layout appearance is correct (check for visibility of text, layout, no overlaps)|?|?|
-|Scroll works where appropriate|?|?|
-|Logo Home link works|?|?|
-|All menu links take user to correct screen|?|?|
-|Active menu item is correct|?|?|
-|Form shows correctly|?|?|
-|Name is mandatory|?|?|
-|Email is mandatory and validated|?|?|
-|Any number of checkboxes can be checked|?|?|
-|'Sign me up!' once form is correctly completed takes user to SignedUp page|?|?|
-|Footer - 'Contact us' takes user to Gallery page|?|?|
-|Footer - Telephone link works|?|?|
-|Footer - Email link works|?|?|
-|Footer - Facebook, Twitter and Instagram links work|?|?|
+|Layout appearance is correct (check for visibility of text, layout, no overlaps)|Pass|N/A|
+|Scroll works where appropriate|Pass|N/A|
+|Logo Home link works|Pass|N/A|
+|Dropdown menu appears on selecting hamburger icon|Pass|N/A|
+|All menu links take user to correct screen|Pass|N/A|
+|Active menu item is correct|Pass|N/A|
+|Form shows correctly|Pass|N/A|
+|Name is mandatory|Pass|Speech bubble shown to inform me to 'Fill out this field'|
+|Email is mandatory and validated|Pass|Speech bubble shown to inform me to 'Fill out this field'|
+|Any number of checkboxes can be checked|Pass|N/A|
+|'Sign me up!' once form is correctly completed takes user to SignedUp page|Pass|N/A|
+|Footer - 'Contact us' takes user to Contact us page/form|Pass|Reloaded page|
+|Footer - Telephone link works|Pass|Brought up 'Call' option on phone with number|
+|Footer - Email link works|Pass|Opened default mail app|
+|Footer - Facebook, Twitter and Instagram links work|Pass|Opened separate web page or relevant app|
 
 |Requirement - *SignedUp page*|Result|Comments|
 |-------|-------|-------|
-|Layout appearance is correct (check for visibility of text, layout, no overlaps)|?|?|
-|Scroll works where appropriate|?|?|
-|Logo Home link works|?|?|
-|All menu links take user to correct screen|?|?|
-|Active menu item is correct|?|?|
-|Home link in thank you section returns user to the home page|?|?|
-|Footer - 'Contact us' takes user to Gallery page|?|?|
-|Footer - Telephone link works|?|?|
-|Footer - Email link works|?|?|
-|Footer - Facebook, Twitter and Instagram links work|?|?|
+|Layout appearance is correct (check for visibility of text, layout, no overlaps)|Pass|N/A|
+|Scroll works where appropriate|Pass|N/A|
+|Logo Home link works|Pass|N/A|
+|Dropdown menu appears on selecting hamburger icon|Pass|N/A|
+|All menu links take user to correct screen|Pass|N/A|
+|Active menu item is correct|Pass|'Contact us' is shown as active|
+|Home link in thank you section returns user to the home page|Pass|N/A|
+|Footer - 'Contact us' takes user to Contact us page/form|Pass|Reloaded page|
+|Footer - Telephone link works|Pass|Brought up 'Call' option on phone with number|
+|Footer - Email link works|Pass|Opened default mail app|
+|Footer - Facebook, Twitter and Instagram links work|Pass|Opened separate web page or relevant app|
+
+|Requirement - *404 page*|Result|Comments|
+|-------|-------|-------|
+|Layout appearance is correct (check for visibility of text, layout, no overlaps)|Pass|N/A|
+|Logo Home link works|Pass|N/A|
+|Clicking on text container returns user to Home|Pass|N/A|
 
 ### Tablet
 |Requirement - *Home page*|Result|Comments|
@@ -142,8 +156,8 @@
 |Meetings are correct theme and all information visible|?|?|
 |Map link takes user to Station Inn location on new tab|?|?|
 |Sign up section takes user to Contact us page/form|?|?|
-|Gallery section takes user to Contact us page/form|?|?|
-|Footer - 'Contact us' takes user to Gallery page|?|?|
+|Gallery section takes user to Gallery page|?|?|
+|Footer - 'Contact us' takes user to Contact us page/form|?|?|
 |Footer - Telephone link works|?|?|
 |Footer - Email link works|?|?|
 |Footer - Facebook, Twitter and Instagram links work|?|?|
@@ -158,8 +172,8 @@
 |Meetings are correct theme and all information visible|?|?|
 |Map link takes user to Station Inn location on new tab|?|?|
 |Sign up section takes user to Contact us page/form|?|?|
-|Gallery section takes user to Contact us page/form|?|?|
-|Footer - 'Contact us' takes user to Gallery page|?|?|
+|Gallery section takes user to Gallery page|?|?|
+|Footer - 'Contact us' takes user to Contact us page/form|?|?|
 |Footer - Telephone link works|?|?|
 |Footer - Email link works|?|?|
 |Footer - Facebook, Twitter and Instagram links work|?|?|
@@ -174,8 +188,8 @@
 |Meetings are correct theme and all information visible|?|?|
 |Map link takes user to Station Inn location on new tab|?|?|
 |Sign up section takes user to Contact us page/form|?|?|
-|Gallery section takes user to Contact us page/form|?|?|
-|Footer - 'Contact us' takes user to Gallery page|?|?|
+|Gallery section takes user to Gallery page|?|?|
+|Footer - 'Contact us' takes user to Contact us page/form|?|?|
 |Footer - Telephone link works|?|?|
 |Footer - Email link works|?|?|
 |Footer - Facebook, Twitter and Instagram links work|?|?|
@@ -188,7 +202,7 @@
 |All menu links take user to correct screen|?|?|
 |Active menu item is correct|?|?|
 |All images appear and show information on hover|?|?|
-|Footer - 'Contact us' takes user to Gallery page|?|?|
+|Footer - 'Contact us' takes user to Contact us page/form|?|?|
 |Footer - Telephone link works|?|?|
 |Footer - Email link works|?|?|
 |Footer - Facebook, Twitter and Instagram links work|?|?|
@@ -205,7 +219,7 @@
 |Email is mandatory and validated|?|?|
 |Any number of checkboxes can be checked|?|?|
 |'Sign me up!' once form is correctly completed takes user to SignedUp page|?|?|
-|Footer - 'Contact us' takes user to Gallery page|?|?|
+|Footer - 'Contact us' takes user to Contact us page/form|?|?|
 |Footer - Telephone link works|?|?|
 |Footer - Email link works|?|?|
 |Footer - Facebook, Twitter and Instagram links work|?|?|
@@ -218,10 +232,16 @@
 |All menu links take user to correct screen|?|?|
 |Active menu item is correct|?|?|
 |Home link in thank you section returns user to the home page|?|?|
-|Footer - 'Contact us' takes user to Gallery page|?|?|
+|Footer - 'Contact us' takes user to Contact us page/form|?|?|
 |Footer - Telephone link works|?|?|
 |Footer - Email link works|?|?|
 |Footer - Facebook, Twitter and Instagram links work|?|?|
+
+|Requirement - *404 page*|Result|Comments|
+|-------|-------|-------|
+|Layout appearance is correct (check for visibility of text, layout, no overlaps)|?|?|
+|Logo Home link works|?|?|
+|Clicking on text container returns user to Home|?|?|
 
 ### Desktop
 |Requirement - *Home page*|Result|Comments|
@@ -248,8 +268,8 @@
 |Meetings are correct theme and all information visible|?|?|
 |Map link takes user to Station Inn location on new tab|?|?|
 |Sign up section takes user to Contact us page/form|?|?|
-|Gallery section takes user to Contact us page/form|?|?|
-|Footer - 'Contact us' takes user to Gallery page|?|?|
+|Gallery section takes user to Gallery page|?|?|
+|Footer - 'Contact us' takes user to Contact us page/form|?|?|
 |Footer - Telephone link works|?|?|
 |Footer - Email link works|?|?|
 |Footer - Facebook, Twitter and Instagram links work|?|?|
@@ -264,8 +284,8 @@
 |Meetings are correct theme and all information visible|?|?|
 |Map link takes user to Station Inn location on new tab|?|?|
 |Sign up section takes user to Contact us page/form|?|?|
-|Gallery section takes user to Contact us page/form|?|?|
-|Footer - 'Contact us' takes user to Gallery page|?|?|
+|Gallery section takes user to Gallery page|?|?|
+|Footer - 'Contact us' takes user to Contact us page/form|?|?|
 |Footer - Telephone link works|?|?|
 |Footer - Email link works|?|?|
 |Footer - Facebook, Twitter and Instagram links work|?|?|
@@ -280,8 +300,8 @@
 |Meetings are correct theme and all information visible|?|?|
 |Map link takes user to Station Inn location on new tab|?|?|
 |Sign up section takes user to Contact us page/form|?|?|
-|Gallery section takes user to Contact us page/form|?|?|
-|Footer - 'Contact us' takes user to Gallery page|?|?|
+|Gallery section takes user to Gallery page|?|?|
+|Footer - 'Contact us' takes user to Contact us page/form|?|?|
 |Footer - Telephone link works|?|?|
 |Footer - Email link works|?|?|
 |Footer - Facebook, Twitter and Instagram links work|?|?|
@@ -294,7 +314,7 @@
 |All menu links take user to correct screen|?|?|
 |Active menu item is correct|?|?|
 |All images appear and show information on hover|?|?|
-|Footer - 'Contact us' takes user to Gallery page|?|?|
+|Footer - 'Contact us' takes user to Contact us page/form|?|?|
 |Footer - Telephone link works|?|?|
 |Footer - Email link works|?|?|
 |Footer - Facebook, Twitter and Instagram links work|?|?|
@@ -311,7 +331,7 @@
 |Email is mandatory and validated|?|?|
 |Any number of checkboxes can be checked|?|?|
 |'Sign me up!' once form is correctly completed takes user to SignedUp page|?|?|
-|Footer - 'Contact us' takes user to Gallery page|?|?|
+|Footer - 'Contact us' takes user to Contact us page/form|?|?|
 |Footer - Telephone link works|?|?|
 |Footer - Email link works|?|?|
 |Footer - Facebook, Twitter and Instagram links work|?|?|
@@ -324,12 +344,16 @@
 |All menu links take user to correct screen|?|?|
 |Active menu item is correct|?|?|
 |Home link in thank you section returns user to the home page|?|?|
-|Footer - 'Contact us' takes user to Gallery page|?|?|
+|Footer - 'Contact us' takes user to Contact us page/form|?|?|
 |Footer - Telephone link works|?|?|
 |Footer - Email link works|?|?|
 |Footer - Facebook, Twitter and Instagram links work|?|?|
 
-
+|Requirement - *404 page*|Result|Comments|
+|-------|-------|-------|
+|Layout appearance is correct (check for visibility of text, layout, no overlaps)|?|?|
+|Logo Home link works|?|?|
+|Clicking on text container returns user to Home|?|?|
 
 
 ### User stories
