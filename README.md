@@ -139,11 +139,31 @@ Having looked at the font for the same era station signs, it was all uppercase, 
 
 ### Imagery
 
+All images used were provided and labelled by Steve Willson, an experienced Trainspotter. They are selected to represent the three themes of the website.
+
+The logo is designed to look like a train numberplate, using recognisable colours and similar font as above, so it will all feel familiar to users.
+
 ### Animations and Transitions
+
+Many users will not be hugely confident internet/app users and so animations should be kept simple and functional. They obviously highlight hovered menu items and icons with a change of colour and weight, without adding any other animation that might be distracting or offputting.
 
 ## Site Structure
 
-## Design Elements
+This website is multiple pages, keeping each page simple and dedicated to a particular subject and ensuring it is easy to find what is needed.
+
+Multiple intuitive navigation options are simple without overcrowding, allowing users to read menus and use those - or use familiar links such as the logo or the footer icons.
+
+The default is the Home page, giving information about the Trainiacs concept and easy options to navigate elsewghere. It provides just enough information but not too much.
+
+The main menu and footer appear on every page. The menu will take the user to every other page they need to navigate to. The footer will also take them to the sign-up menu as well as giving options for social media and phone and email contacts.
+
+The main Trainiacs logo always navigates back to the home page.
+
+The images on the Home Page will navigate to the relevant pages - and each of those pages has easy links to the contact and gallery pages.
+
+The contact page will redirect to a page to confirm the form has been submitted and this also contains a link to home within the text, as well as the usual header and footer links and menus.
+
+There is a customer 404 page which is kept within the theme, is fun and also provides an easy link back to the home page within the main text.
 
 ## Wireframes
 
@@ -269,25 +289,49 @@ Form that allows users to upload their own photos and descriptions for submissio
 
 # Technologies Used
 
-https://coolors.co/310101-cfb53b-ffe7ab-660000-013602  
-
 ## Programming Languages
+
+- [CSS](https://www.w3schools.com/w3css/default.asp) The project uses **CSS** to define DOM appearance. 
+- [HTML](https://www.w3schools.com/html/default.asp) The project uses **HTML** to define DOM elements.
+- [Markdown](https://www.markdownguide.org/) Documentation within the readme was generated using markdown.
 
 ## Frameworks and Extensions
 
+- [Bootstrap 5.3](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+
 ## Fonts
+
+- [FontAwesome](https://fontawesome.com/icons?m=free)
+- [Source Serif Pro](https://fonts.google.com/specimen/Source+Serif+Pro?query=source+serif)
+- [Open Sans](https://fonts.google.com/specimen/Open+Sans?query=open+sans)
 
 ## Tools
 
-Unicorn revealer
-
-## APIs
+- [Coolors colour palette generator](https://coolors.co/310101-cfb53b-ffe7ab-660000-013602) - to generate colour palette above
+- [github](https://github.com/) - used for version control of project files
+- [Code Anywhere](https://app.codeanywhere.com/) - IDE
+- [balsamiq](https://balsamiq.com/) - to create effective wireframes easily
+- [mardown table of contents generator](https://ecotrust-canada.github.io/markdown-toc/) - to generate README and TESTING contents tables
+- [Favicon](https://favicon.io/) - to generate an appropriate train favicon
 
 # Deployment
 
-## Forking the Repository
-
 ## Deploy Locally
+
+1. Using CodeAnywhere, go to 'Terminal' in the menu and select 'New Terminal'.
+
+![image](https://github.com/jenniewillson/trainiacs/assets/127458925/eb7b9c85-ecaa-4ee7-9554-e95cf83e3ef8)
+
+2. Once the terminal is loaded, type 'Python3 -m http.server' and press enter
+
+![image](https://github.com/jenniewillson/trainiacs/assets/127458925/291bdda4-ea08-4f9a-a024-312727c33e4b)
+
+3. There will be a pop-up in the bottom right hand corner - select to open in browser - or if you don't see the pop-up, go to 'Ports' at the bottom right of the screen, click on it and select the Port 8000 browser button.
+
+![image](https://github.com/jenniewillson/trainiacs/assets/127458925/237bcfcd-75ab-4c80-9106-a0208532025e)
+![image](https://github.com/jenniewillson/trainiacs/assets/127458925/11ad0570-c9d0-4ab8-9291-2e8fa4fbf3df)
+
+
 
 ## Deploy to GitHub Pages
 
@@ -302,16 +346,27 @@ Unicorn revealer
 
 # Credits
 
-http://www.gwr.org.uk/liveries.html  
+- all images provided by Steve Willson
+- colour choices provided by http://www.gwr.org.uk/liveries.html 
+- Code Institude coding lessons and examples
 
-# Content
+# Content and Media
 
-# Media
+Images and descriptions provided by Steve Willson
 
 ## Acknowledgements
 
 - CodeInstitute template
+- Malia Havlicek - mentor
+- Steve Willson - subject expert, photographer
 - https://www.w3schools.com/
-https://blog.hubspot.com/website/html-space https://stackoverflow.com/
-https://stackoverflow.com/
-https://ui.dev/amiresponsive
+- https://blog.hubspot.com/website/html-space 
+- https://stackoverflow.com/
+- https://ui.dev/amiresponsive
+- https://jigsaw.w3.org/css-validator/
+- https://validator.w3.org/
+- Lighthouse
+- https://color.a11y.com/
+- Windows screen reader
+- Bandicam
+- Clipchamp
