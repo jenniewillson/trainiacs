@@ -194,6 +194,13 @@ Once this was resolved and I understood the requirement I have been committing c
 
 ## Future features
 
+- to have a longer term calendar of events available, to be able to filter them on topic and to be able to have them in a database that dynamically updates
+- to be able to sign up for events with a number limit and ability to pay online
+- consider adding a Q&A style page that users can post in and give answers and get email updates
+- Future development to make at least one checkbox mandatory and to have a member page where you can update your mailing preferences
+- Mailing form would be connected to an endpoint and a database of details and preferences
+- Add GDPR statement
+
 ### Ability for users to submit photos
 
 ### Mandatory check boxes on form
@@ -481,18 +488,18 @@ Once this was resolved and I understood the requirement I have been committing c
 ### User stories
 |Story ID|Result|Comments|
 |-------|-------|-------|
-|US1|?|?|
-|US2|?|?|
-|US3|?|?|
-|US4|?|?|
-|US5|?|?|
-|US6|?|?|
-|US7|?|?|
-|US8|?|?|
-|US9|?|?|
-|US10|?|?|
-|US11|?|?|
-|US12|?|?|
+|US1|Pass|Future development to have a longer term calendar of events available, to be able to filter them on topic and to be able to have them in a database that dynamically updates|
+|US2|Pass|Future development to be able to sign up for events with a number limit and ability to pay online|
+|US3|Pass|In future consider adding a Q&A style page that users can post in and give answers and get email updates|
+|US4|Pass|See above|
+|US5|Pass|See above|
+|US6|Pass|See above|
+|US7|Pass|Future development to make at least one checkbox mandatory and to have a member page where you can update your mailing preferences|
+|US8|De-scoped|This will require coding beyond the developer's current ability. However, at present this can be done via email, with the website administrator updating photos in the gallery manually. As the gallery is responsive to number and size of photos and screen, it will be a straightforward task to do this periodically|
+|US9|Pass|N/A|
+|US10|Pass|In future this would be connected to an endpoint and a database of details and preferences|
+|US11|Pass?|Pass will be determined by whether I pass this milestone project!|
+|US12|Pass|Yes, I have learnt a lot about how to code for screen readers, keyboard navigation, colour contrast etc.|
 
 ## Defect Tracking
 
