@@ -11,7 +11,7 @@ Jennie Willson
 
 ### [Trainiacs - link to live site](https://jenniewillson.github.io/trainiacs/modern.html)
 
-![image](https://github.com/jenniewillson/trainiacs/assets/127458925/bed51d6c-eff1-4299-8f96-e9617021c01d)
+![image](https://github.com/jenniewillson/trainiacs/assets/127458925/7198f3ca-c5a7-467a-b418-447816695fb5)
 
 ["Am I responsive?" link](https://ui.dev/amiresponsive?url=https://jenniewillson.github.io/trainiacs/modern.html
 )
@@ -194,7 +194,7 @@ The main menu and footer appear on every page. The menu will take the user to ev
 
 The main Trainiacs logo always navigates back to the home page.
 
-The images on the Home Page will navigate to the relevant pages - and each of those pages has easy links to the contact and gallery pages.
+The images on the Home Page will navigate to the relevant pages - and each of those pages has easy links to the contact page.
 
 The contact page will redirect to a page to confirm the form has been submitted and this also contains a link to home within the text, as well as the usual header and footer links and menus.
 
