@@ -144,6 +144,12 @@ body {
 
 /*HOME - THEME PICS/LINKS*/
 
+.theme-title {
+    color: #ffe7ab;
+    text-align: center;
+    border-bottom: 2px #ffe7ab solid;
+}
+
 #pic-modern {
     background-image: url("../images/modern.jpg");
 }
