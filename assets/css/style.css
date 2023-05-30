@@ -59,6 +59,19 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 
+.invitation {
+    color: #ffe7ab;
+    text-align: center;
+    background-color: #660000;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    text-align: center;
+}
+
+.invitation p {
+    margin-bottom: 0;
+}
+
 /*HEADER - MENU*/
 
 .hmbgr-menu {
@@ -412,6 +425,9 @@ footer i:hover {
 /*STYLING FOR SCREENS WIDER THAN MOBILE*/
 
 @media only screen and (min-width: 768px) {
+    .invitation {
+             font-size: 18px;
+                }
     .theme-pic {
         height: 50vh;
         width: 27vw;
