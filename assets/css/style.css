@@ -72,6 +72,10 @@ body {
     margin-bottom: 0;
 }
 
+#invite-line-break {
+    display: none;
+}
+
 /*HEADER - MENU*/
 
 .hmbgr-menu {
@@ -426,8 +430,9 @@ footer i:hover {
 
 @media only screen and (min-width: 768px) {
     .invitation {
-             font-size: 18px;
-                }
+        font-size: 22px;
+    }
+
     .theme-pic {
         height: 50vh;
         width: 27vw;
@@ -546,6 +551,10 @@ footer i:hover {
         display: block;
         margin-left: auto;
         margin-right: auto;
+    }
+
+    #invite-line-break {
+        display: block;
     }
 }
 
