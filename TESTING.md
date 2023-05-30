@@ -419,6 +419,30 @@ Tested on iPad
 
 ### Simulation of other devices
 
+[Uswitch statistics](https://www.uswitch.com/mobiles/studies/mobile-statistics/) show that there has been a significant increase recently of the number of the older generation using smartphones, although desktop is still very popular. It is likely that a large proportion of the Trainiacs site users would be over 55 due to the popularity of Trainspotting as a hobby amongst that age range, as well as them being more available to spend time doing it, once retired.
+
+The statistics show that in the UK the highest market share for smartphones is Apple, followed by Samsung, so it is important to check how the Trainiacs site renders on a range of these devices. Chrome developer tools were used to simulate these devices, and all pages were viewed and spot checking of functionality performed:
+
+#### iPhone XR
+![image](https://github.com/jenniewillson/trainiacs/assets/127458925/a4c652f6-f9f7-4838-b108-4002a9db36c9)
+
+#### iPhone SE
+![image](https://github.com/jenniewillson/trainiacs/assets/127458925/1db3d10c-0c53-4534-90b0-a5e69e7be6ed)
+
+#### Samsung Galaxy s8
+![image](https://github.com/jenniewillson/trainiacs/assets/127458925/c313c414-4d9e-4049-9c77-69316a4ead05)
+
+#### Galaxy fold
+![image](https://github.com/jenniewillson/trainiacs/assets/127458925/0a6fce53-22b4-43aa-80af-add9a975a124)
+
+#### Samsung Galaxy s20 ultra
+![image](https://github.com/jenniewillson/trainiacs/assets/127458925/f10ca5f0-f175-4984-8d4c-e92ad0b352ce)
+
+#### iPad mini
+![image](https://github.com/jenniewillson/trainiacs/assets/127458925/424b2909-10f9-4e7d-99c6-bca1473a83bb)
+
+The most [commonly used Browsers in the UK](https://www.statista.com/statistics/421625/web-browser-market-share-in-the-united-kingdom-uk/#:~:text=The%20Chrome%20web%20browser%20from%20Google%20is%20the,the%208.53%20percent%20held%20by%20third%20place%20Edge.) are Chrome and Safari (on Apple devices), with Edge also having a significant market share. The Safari OS was used for the Tablet and Mobile testng above, and Chrome for the Desktop testing. Edge was also used during development and all functionality was confirmed to be working there also.
+
 ### User stories
 |Story ID|Result|Comments|
 |-------|-------|-------|
