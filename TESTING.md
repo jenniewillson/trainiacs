@@ -135,7 +135,6 @@ Tested on iPhone 13
 |Meetings are correct theme and all information visible|Pass|N/A|
 |Map link takes user to Station Inn location on new tab|Pass|Link opened in default Maps app and took me straight to the location|
 |Sign up section takes user to Contact us page/form|Pass|N/A|
-|Gallery section takes user to Gallery page|Pass|N/A|
 |Footer - 'Contact us' takes user to Contact us page/form|Pass|N/A|
 |Footer - Telephone link works|Pass|Brought up 'Call' option on phone with number|
 |Footer - Email link works|Pass|Opened default mail app|
@@ -152,7 +151,6 @@ Tested on iPhone 13
 |Meetings are correct theme and all information visible|Pass|N/A|
 |Map link takes user to Station Inn location on new tab|Pass|Link opened in default Maps app and took me straight to the location|
 |Sign up section takes user to Contact us page/form|Pass|N/A|
-|Gallery section takes user to Gallery page|Pass|N/A|
 |Footer - 'Contact us' takes user to Contact us page/form|Pass|N/A|
 |Footer - Telephone link works|Pass|Brought up 'Call' option on phone with number|
 |Footer - Email link works|Pass|Opened default mail app|
@@ -169,7 +167,6 @@ Tested on iPhone 13
 |Meetings are correct theme and all information visible|Pass|N/A|
 |Map link takes user to Station Inn location on new tab|Pass|Link opened in default Maps app and took me straight to the location|
 |Sign up section takes user to Contact us page/form|Pass|N/A|
-|Gallery section takes user to Gallery page|Pass|N/A|
 |Footer - 'Contact us' takes user to Contact us page/form|Pass|N/A|
 |Footer - Telephone link works|Pass|Brought up 'Call' option on phone with number|
 |Footer - Email link works|Pass|Opened default mail app|
@@ -255,7 +252,6 @@ Tested on iPad
 |Meetings are correct theme and all information visible|Pass|N/A|
 |Map link takes user to Station Inn location on new tab|Pass|Link opened in default Maps app and took me straight to the location|
 |Sign up section takes user to Contact us page/form|Pass|N/A|
-|Gallery section takes user to Gallery page|Pass|N/A|
 |Footer - 'Contact us' takes user to Contact us page/form|Pass|N/A|
 |Footer - Telephone link works|Pass|Brought up 'Call' options on iPad|
 |Footer - Email link works|Pass|Opened default mail app|
@@ -272,7 +268,6 @@ Tested on iPad
 |Meetings are correct theme and all information visible|Pass|N/A|
 |Map link takes user to Station Inn location on new tab|Pass|Link opened in default Maps app and took me straight to the location|
 |Sign up section takes user to Contact us page/form|Pass|N/A|
-|Gallery section takes user to Gallery page|Pass|N/A|
 |Footer - 'Contact us' takes user to Contact us page/form|Pass|N/A|
 |Footer - Telephone link works|Pass|Brought up 'Call' options on iPad|
 |Footer - Email link works|Pass|Opened default mail app|
@@ -288,7 +283,6 @@ Tested on iPad
 |Meetings are correct theme and all information visible|Pass|N/A|
 |Map link takes user to Station Inn location on new tab|Pass|Link opened in default Maps app and took me straight to the location|
 |Sign up section takes user to Contact us page/form|Pass|N/A|
-|Gallery section takes user to Gallery page|Pass|N/A|
 |Footer - 'Contact us' takes user to Contact us page/form|Pass|N/A|
 |Footer - Telephone link works|Pass|Brought up 'Call' options on iPad|
 |Footer - Email link works|Pass|Opened default mail app|
@@ -370,7 +364,6 @@ Tested on iPad
 |Meetings are correct theme and all information visible|Pass|N/A|
 |Map link takes user to Station Inn location on new tab|Pass|Link opened in separate tab and took me straight to the location|
 |Sign up section takes user to Contact us page/form|Pass|N/A|
-|Gallery section takes user to Gallery page|Pass|N/A|
 |Footer - 'Contact us' takes user to Contact us page/form|Pass|N/A|
 |Footer - Telephone link works|Pass|N/A|
 |Footer - Email link works|Pass|Opened default mail app|
@@ -387,7 +380,6 @@ Tested on iPad
 |Meetings are correct theme and all information visible|Pass|N/A|
 |Map link takes user to Station Inn location on new tab|Pass|Link opened in separate tab and took me straight to the location|
 |Sign up section takes user to Contact us page/form|Pass|N/A|
-|Gallery section takes user to Gallery page|Pass|N/A|
 |Footer - 'Contact us' takes user to Contact us page/form|Pass|N/A|
 |Footer - Telephone link works|Pass|N/A|
 |Footer - Email link works|Pass|Opened default mail app|
@@ -404,7 +396,6 @@ Tested on iPad
 |Meetings are correct theme and all information visible|Pass|N/A|
 |Map link takes user to Station Inn location on new tab|Pass|Link opened in separate tab and took me straight to the location|
 |Sign up section takes user to Contact us page/form|Pass|N/A|
-|Gallery section takes user to Gallery page|Pass|N/A|
 |Footer - 'Contact us' takes user to Contact us page/form|Pass|N/A|
 |Footer - Telephone link works|Pass|N/A|
 |Footer - Email link works|Pass|Opened default mail app|
