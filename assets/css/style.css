@@ -99,6 +99,10 @@ body {
     top: 10px;
 }
 
+.hmbgr-menu-list a {
+    display: flex;
+}
+
 .hmbgr-menu-list a:hover {
     color: #013602;
     font-weight: 900;
