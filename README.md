@@ -388,6 +388,7 @@ Form that allows users to upload their own photos and descriptions for submissio
 # Content and Media
 
 Images and descriptions provided by Steve Willson
+Logo and train track designed by Jennie Willson
 
 ## Acknowledgements
 
