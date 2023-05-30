@@ -510,6 +510,7 @@ The most [commonly used Browsers in the UK](https://www.statista.com/statistics/
 - [Header background colour missing on some pages](https://github.com/jenniewillson/trainiacs/issues/8#issue-1718476485)
 - [Nav-bar menu items left aligned](https://github.com/jenniewillson/trainiacs/issues/10)
 - [Navbar border not reaching edges of page](https://github.com/jenniewillson/trainiacs/issues/11)
+- [Hamburger menu links not always having an effect](https://github.com/jenniewillson/trainiacs/issues/15)
 
 ## Defects of Note
 
