@@ -272,6 +272,7 @@ Once this was resolved and I understood the requirement I have been committing c
 
 - Shows a range of photos of interest to users
 - Responsive and flexible - so different images can be swapped in and out over time
+- Purposefully designed in the style of a noticeboard - not lining images up as they will all be likely different shapes and sizes when users submit and this allows flexibility for that
 - Photo description avaialble on hover
 
 ### Contact form
