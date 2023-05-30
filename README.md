@@ -394,6 +394,7 @@ Images and descriptions provided by Steve Willson
 - CodeInstitute template
 - Malia Havlicek - mentor
 - Steve Willson - subject expert, photographer
+- Chrome Developer Tools
 - https://www.w3schools.com/
 - https://blog.hubspot.com/website/html-space 
 - https://stackoverflow.com/
@@ -402,6 +403,8 @@ Images and descriptions provided by Steve Willson
 - https://validator.w3.org/
 - Lighthouse
 - https://color.a11y.com/
+- https://www.uswitch.com/
+- https://www.statista.com/
 - Windows screen reader
 - Bandicam
 - Clipchamp
