@@ -320,7 +320,7 @@ Form that allows users to upload their own photos and descriptions for submissio
 
 # Testing
 
-[See testing.md for detailed testing record](testing.md)
+[See TESTING.md for detailed testing record](TESTING.md)
 
 # Technologies Used
 
