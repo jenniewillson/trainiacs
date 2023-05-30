@@ -300,6 +300,13 @@ p.home-theme-text {
 
 /*GALLERY PAGE*/
 
+.gallery-title {
+    color: #ffe7ab;
+    background: #660000;
+    text-align: center;
+    border-bottom: 2px #ffe7ab solid;
+}
+
 #photo {
     clear: both;
     line-height: 0;
