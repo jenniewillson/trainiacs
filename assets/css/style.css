@@ -264,6 +264,11 @@ p.home-theme-text {
     margin-bottom: 57px;
 }
 
+.gallery-link-pics img:hover {
+    transform: scale(1.5);
+    border: 2px black solid;
+}
+
 .gallery-link-pics {
     max-width: 90vw;
     margin: 10px auto;
@@ -315,6 +320,10 @@ p.home-theme-text {
 
 #photo img {
     width: 100%;
+}
+
+#photo img:hover {
+    border: 2px #ffe7ab solid;
 }
 
 /*CONTACT PAGE*/
