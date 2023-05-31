@@ -502,6 +502,7 @@ The most [commonly used Browsers in the UK](https://www.statista.com/statistics/
 - [Nav-bar menu items left aligned](https://github.com/jenniewillson/trainiacs/issues/10)
 - [Navbar border not reaching edges of page](https://github.com/jenniewillson/trainiacs/issues/11)
 - [Hamburger menu links not always having an effect](https://github.com/jenniewillson/trainiacs/issues/15)
+- [Layout issues at <240px wide](https://github.com/jenniewillson/trainiacs/issues/16)
 
 ## Defects of Note
 
